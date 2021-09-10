@@ -10,4 +10,4 @@ You will need access to:
 ## Contact
 Contact **pachican@usc.edu** if you have any questions. 
 ## License
-MIT
+MIT style
