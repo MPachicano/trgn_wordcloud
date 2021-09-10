@@ -4,7 +4,9 @@ This application will create a webpage with a wordcloud summarizing a few differ
 ## Installation & Usage
 To install the app into a server, go to the command line of Terminal and clone my repository using the git clone code (https://github.com/MPachicano/trgn_wordcloud.git). Enter your GitHub informationand cd into the directory "trgn_wordcloud". 
 ## Dependencies
-You will need access to *Terminal* and *GitHub* to utilize this application. 
+You will need access to:
+1. *Terminal*
+2.  *GitHub*  
 ## Contact
 Contact **pachican@usc.edu** if you have any questions. 
 ## License
