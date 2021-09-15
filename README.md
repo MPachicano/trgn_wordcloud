@@ -4,7 +4,6 @@ This application will create a webpage with a wordcloud summarizing a few differ
 ## Installation & Usage
 To install the app into a server, go to the command line of Terminal and clone my repository using the git clone code (https://github.com/MPachicano/trgn_wordcloud.git). Enter your GitHub informationand cd into the directory "trgn_wordcloud". 
 ## Dependencies
-You will need access to:
 1. *wget*: use wget to allow you to be able to specify a filename so that you don't have to use names that come from the website. Use -O wget filename.
 2. *html2text*: https://github.com/aaronsw/html2text.git.  Use this python script in order to convert your files into text.
 3. *word_cloud*: https://github.com/amueller/word_cloud.git.  Use this to generate a wordcloud and create an image. 
