@@ -4,7 +4,7 @@ This Wordcloud application creates a Wordcloud summarizing a few different webpa
 
 When this application is run, it will extract text from each webpage, generate awordcloud, and place the images into trgn.usc.edu/~pachican. This script runs using Cron Scheduler, meaning it will be updated daily. Check it out!
 ## Installation & Usage
-Use this repository using the git clone code (https://github.com/MPachicano/trgn_wordcloud.git).  
+Use this repository using the git clone code (https://github.com/MPachicano/trgn_wordcloud.git). If you would like to update the webpages using your own, go into my_webpages.txt and simply copy and paste your webpages. Run the script generate_wordcloud_from_file.sh and it should update trgn.usc.edu/~pachican accordingly.   
 ## Dependencies
 1. *wget*: use wget to allow you to be able to specify a filename so that you don't have to use names that come from the website. Use -O wget filename.
 2. *html2text*: https://github.com/aaronsw/html2text.git.  Install this python repository in order to convert your files into text.
