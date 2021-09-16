@@ -2,7 +2,7 @@
 ## About the app
 This Wordcloud application creates a Wordcloud summarizing a few different webpages. One webpage is Wikipedia's "Neurodegeneration" webpage, and the other is the New York Times "Alzheimer's" webpage.
 
-When this application is run, it will extract text from each webpage, generate awordcloud, and place the images into trgn.usc.edu/~pachican. Check it out!
+When this application is run, it will extract text from each webpage, generate awordcloud, and place the images into trgn.usc.edu/~pachican. This script runs using Cron Scheduler, meaning it will be updated daily. Check it out!
 ## Installation & Usage
 Use this repository using the git clone code (https://github.com/MPachicano/trgn_wordcloud.git).  
 ## Dependencies
