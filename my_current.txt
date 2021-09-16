@@ -1,2 +1,1356 @@
+# Neurodegeneration
 
+From Wikipedia, the free encyclopedia
+
+Jump to navigation Jump to search
+
+Central nervous system disease
+
+For the medical journal, see [Experimental
+Neurology](/wiki/Experimental_Neurology).
+
+Medical condition
+
+Neurodegeneration
+
+![Parasagittal MRI of human head in patient with benign familial macrocephaly
+prior to brain injury \(ANIMATED\).gif](//upload.wikimedia.org/wikipedia/commo
+ns/5/56/Parasagittal_MRI_of_human_head_in_patient_with_benign_familial_macroce
+phaly_prior_to_brain_injury_%28ANIMATED%29.gif)
+
+Para-sagittal MRI of the head in a patient with benign familial
+[macrocephaly](/wiki/Macrocephaly)
+
+[Specialty](/wiki/Medical_specialty)
+
+[Neurology](/wiki/Neurology), [Psychiatry](/wiki/Psychiatry)
+
+**Neurodegeneration** is the progressive loss of structure or function of [neurons](/wiki/Neurons), which may ultimately involve [cell death](/wiki/Cell_death). Many **neurodegenerative diseases**—such as [amyotrophic lateral sclerosis](/wiki/Amyotrophic_lateral_sclerosis), [multiple sclerosis](/wiki/Multiple_sclerosis), [Parkinson's disease](/wiki/Parkinson%27s_disease), [Alzheimer's disease](/wiki/Alzheimer%27s_disease), [Huntington's disease](/wiki/Huntington%27s_disease), and [prion diseases](/wiki/Prion_diseases)—occur as a result of neurodegenerative processes. Neurodegeneration can be found in the brain at many different levels of neuronal circuitry, ranging from molecular to systemic. Because there is no known way to reverse the progressive degeneration of neurons, these diseases are considered to be incurable.[1] Biomedical research has revealed many similarities between these diseases at the [sub-cellular](/wiki/Sub-cellular) level, including atypical protein assemblies (like [proteopathy](/wiki/Proteopathy)) and induced cell death.[2][3] These similarities suggest that [therapeutic](/wiki/Therapy) advances against one neurodegenerative disease might ameliorate other diseases as well. 
+
+## Contents
+
+  * 1 Specific disorders
+    * 1.1 Alzheimer's disease
+    * 1.2 Parkinson's disease
+    * 1.3 Huntington's disease
+    * 1.4 Multiple sclerosis (MS)
+    * 1.5 Amyotrophic lateral sclerosis (ALS)
+    * 1.6 Batten disease
+  * 2 Risk factor
+  * 3 Mechanisms
+    * 3.1 Genetics
+    * 3.2 Protein misfolding
+    * 3.3 Intracellular mechanisms
+      * 3.3.1 Protein degradation pathways
+      * 3.3.2 Membrane damage
+      * 3.3.3 Mitochondrial dysfunction
+      * 3.3.4 DNA damage
+      * 3.3.5 Axonal transport
+    * 3.4 Programmed cell death
+      * 3.4.1 Apoptosis (type I)
+      * 3.4.2 Autophagic (type II)
+      * 3.4.3 Cytoplasmic (type III)
+    * 3.5 Transglutaminase
+  * 4 Management
+    * 4.1 Animal models in research
+    * 4.2 Other avenues of investigation
+  * 5 See also
+  * 6 References
+
+## Specific
+disorders[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=1)]
+
+### Alzheimer's
+disease[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=2)]
+
+![](//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Alzheimers_brain.jpg
+/220px-Alzheimers_brain.jpg)
+
+Comparison of brain tissue between healthy individual and Alzheimer's disease
+patient, demonstrating extent of neuronal death
+
+Main article: [Alzheimer's disease](/wiki/Alzheimer%27s_disease)
+
+Alzheimer's disease (AD) is a chronic neurodegenerative disease that results
+in the loss of [neurons](/wiki/Neuron) and [synapses](/wiki/Synapse) in the
+[cerebral cortex](/wiki/Cerebral_cortex) and certain subcortical structures,
+resulting in gross [atrophy](/wiki/Atrophy) of the [temporal
+lobe](/wiki/Temporal_lobe), [parietal lobe](/wiki/Parietal_lobe), and parts of
+the [frontal cortex](/wiki/Frontal_cortex) and [cingulate
+gyrus](/wiki/Cingulate_gyrus).[4] Even with billions of dollars being used to
+find a treatment for Alzheimer's disease, no effective treatments have been
+found.[5] However, clinical trials have developed certain compounds that could
+potentially change the future of Alzheimer's disease treatments.[6] Currently,
+diagnoses of Alzheimer's is subpar, and better methods need to be utilized for
+various aspects of clinical diagnoses.[7] Alzheimer's has a 20% misdiagnosis
+rate.[7]
+
+AD pathology is primarily characterized by the presence of [senile
+plaques](/wiki/Senile_plaques) and [neurofibrillary
+tangles](/wiki/Neurofibrillary_tangle). Plaques are made up of small
+[peptides](/wiki/Peptide), typically 39–43 amino acids in length, called
+[beta-amyloid](/wiki/Beta-amyloid) (also written as A-beta or Aβ). Beta-
+amyloid is a fragment from a larger protein called [amyloid precursor
+protein](/wiki/Amyloid_precursor_protein) (APP), a [transmembrane
+protein](/wiki/Transmembrane_protein) that penetrates through the neuron's
+membrane. APP appears to play roles in normal neuron growth, survival and
+post-injury repair.[8][9] APP is [cleaved](/wiki/Proteolysis) into smaller
+fragments by [enzymes](/wiki/Enzymes) such as [gamma
+secretase](/wiki/Gamma_secretase) and [beta
+secretase](/wiki/Beta_secretase).[10] One of these fragments gives rise to
+fibrils of beta-amyloid which can self-assemble into the dense extracellular
+deposits known as senile plaques or amyloid plaques.[11][12]
+
+### Parkinson's
+disease[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=3)]
+
+Main article: [Parkinson's disease](/wiki/Parkinson%27s_disease)
+
+Parkinson's disease (PD) is the second most common neurodegenerative
+disorder.[13] It typically manifests as [bradykinesia](/wiki/Bradykinesia),
+rigidity, resting tremor and posture instability. The crude prevalence rate of
+PD has been reported to range from 15 per 100,000 to 12,500 per 100,000, and
+the incidence of PD from 15 per 100,000 to 328 per 100,000, with the disease
+being less common in Asian countries.
+
+PD is primarily characterized by death of [dopaminergic](/wiki/Dopaminergic)
+neurons in the [substantia nigra](/wiki/Substantia_nigra), a region of the
+[midbrain](/wiki/Midbrain). The cause of this selective cell death is unknown.
+Notably, [alpha-synuclein](/wiki/Alpha-synuclein)-[ubiquitin](/wiki/Ubiquitin)
+complexes and aggregates are observed to accumulate in [Lewy
+bodies](/wiki/Lewy_bodies) within affected neurons. It is thought that defects
+in protein transport machinery and regulation, such as [RAB1](/wiki/RAB1), may
+play a role in this disease mechanism.[14] Impaired axonal transport of alpha-
+synuclein may also lead to its accumulation in Lewy bodies. Experiments have
+revealed reduced transport rates of both wild-type and two familial
+Parkinson's disease-associated mutant alpha-synucleins through axons of
+cultured neurons.[15] Membrane damage by alpha-synuclein could be another
+Parkinson's disease mechanism.[16]
+
+The main known risk factor is age. Mutations in genes such as α-synuclein
+(SNCA), [leucine-rich repeat kinase 2](/wiki/LRRK2) (LRRK2),
+[glucocerebrosidase](/wiki/Glucocerebrosidase) (GBA), and [tau
+protein](/wiki/Tau_protein) (MAPT) can also cause hereditary PD or increase PD
+risk.[17] While PD is the second most common neurodegenerative disorder,
+problems with diagnoses still persist.[18] Problems with the sense of smell is
+a widespread symptom of Parkinson’s disease (PD), however, some neurologists
+question its efficacy.[18] This assessment method is a source of controversy
+among medical professionals.[18] The [gut microbiome](/wiki/Gut_microbiome)
+might play a role in the diagnosis of PD, and research suggests various ways
+that could revolutionize the future of PD treatment.[19]
+
+### Huntington's
+disease[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=4)]
+
+Main article: [Huntington's disease](/wiki/Huntington%27s_disease)
+
+Huntington's disease (HD) is a rare [autosomal
+dominant](/wiki/Autosomal_dominant) neurodegenerative disorder caused by
+mutations in the [huntingtin gene](/wiki/Huntingtin_gene) _(HTT)_. HD is
+characterized by loss of [medium spiny neurons](/wiki/Medium_spiny_neuron) and
+[astrogliosis](/wiki/Astrogliosis).[20][21][22] The first brain region to be
+substantially affected is the [striatum](/wiki/Striatum), followed by
+degeneration of the [frontal](/wiki/Frontal_lobe) and
+[temporal](/wiki/Temporal_lobe) cortices.[23] The striatum's [subthalamic
+nuclei](/wiki/Subthalamic_nucleus) send control signals to the [globus
+pallidus](/wiki/Globus_pallidus), which initiates and modulates motion. The
+weaker signals from subthalamic nuclei thus cause reduced initiation and
+modulation of movement, resulting in the characteristic movements of the
+disorder, notably [chorea](/wiki/Chorea).[24] Huntington's disease presents
+itself later in life even though the proteins that cause the disease works
+towards manifestation from their early stages in the humans affected by the
+proteins.[25] Along with being a neurodegenerative disorder, HD has links to
+problems with neurodevelopment.[25]
+
+HD is caused by [polyglutamine tract](/wiki/Polyglutamine_tract) expansion in
+the huntingtin gene, resulting in the mutant huntingtin. Aggregates of mutant
+huntingtin form as [inclusion bodies](/wiki/Inclusion_bodies) in neurons, and
+may be directly toxic. Additionally, they may damage molecular motors and
+microtubules to interfere with normal [axonal
+transport](/wiki/Axonal_transport), leading to impaired transport of important
+cargoes such as [BDNF](/wiki/BDNF).[15] Huntington's disease currently has no
+effective treatments that would modify the disease.[26]
+
+### Multiple sclerosis
+(MS)[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=5)]
+
+Main article: [Multiple sclerosis](/wiki/Multiple_sclerosis)
+
+[Multiple sclerosis](/wiki/Multiple_sclerosis) is a chronic debilitating
+[demyelinating disease](/wiki/Demyelinating_disease) of the central nervous
+system, caused by an autoimmune attack resulting in the progressive loss of
+myelin sheath on neuronal axons.[27]    The resultant decrease in the speed of
+signal transduction leads to a loss of functionality that includes both
+cognitive and motor impairment depending on the location of the lesion.[27]
+The progression of MS occurs due to episodes of increasing inflammation, which
+is proposed to be due to the release of antigens such as myelin
+oligodendrocyte glycoprotein, myelin basic protein, and proteolipid protein,
+causing an autoimmune response.[28] This sets off a cascade of signaling
+molecules that result in T cells, B cells, and Macrophages to cross the blood-
+brain barrier and attack myelin on neuronal axons leading to inflammation.[29]
+Further release of antigens drives subsequent degeneration causing increased
+inflammation.[30] Multiple sclerosis presents itself as a spectrum based on
+the degree of inflammation, a majority of patients suffer from early relapsing
+and remitting episodes of neuronal deterioration following a period of
+recovery. Some of these individuals may transition to a more linear
+progression of the disease, while about 15% of others begin with a progressive
+course on the onset of Multiple sclerosis. The inflammatory response
+contributes to the loss of the grey matter, and as a result current literature
+devotes itself to combatting the auto-inflammatory aspect of the disease.[29]
+While there are several proposed causal links between EBV and the _HLA-
+DRB1*15:01_ allele to the onset of Multiple Sclerosis they may contribute to
+the degree of autoimmune attack and the resultant inflammation, they do not
+determine the onset of Multiple Sclerosis.[29]
+
+### Amyotrophic lateral sclerosis
+(ALS)[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=6)]
+
+Main article: [Amyotrophic lateral
+sclerosis](/wiki/Amyotrophic_lateral_sclerosis)
+
+Amyotrophic lateral sclerosis (ALS or [Lou Gehrig](/wiki/Lou_Gehrig)'s
+disease) is a disease in which motor neurons are selectively targeted for
+degeneration. Amyotrophic lateral sclerosis (ALS) is a neurodegenerative
+disorder that negatively impacts the upper motor neurons (UMNs) and lower
+motor neurons (LMNs).[31] In 1993, missense mutations in the gene encoding the
+antioxidant enzyme Cu/Zn superoxide dismutase 1 ([SOD1](/wiki/SOD1)) were
+discovered in a subsets of patients with familial ALS. This discovery led
+researchers to focus on unlocking the mechanisms for SOD1-mediated diseases.
+However, the pathogenic mechanism underlying SOD1 mutant toxicity has yet to
+be resolved. More recently, [TDP-43](/wiki/TDP-43) and
+[FUS](/wiki/FUS_\(gene\)) protein aggregates have been implicated in some
+cases of the disease, and a mutation in chromosome 9
+([C9orf72](/wiki/C9orf72)) is thought to be the most common known cause of
+sporadic ALS. It is diagnosed by skeletal muscle weakness that progresses
+gradually.[31] Early diagnosis of ALS is harder than with other
+neurodegenerative diseases as there are no highly effective means of
+determining its early onset.[31] Currently, there is research being done
+regarding the diagnosis of ALS through upper motor neuron tests.[32] The Penn
+Upper Motor Neuron Score (PUMNS) consists of 28 criteria with a score range of
+0-32.[32] A higher score indicates a higher level of burden present on the
+upper motor neurons.[32] The PUMNS has proven quite effective in determining
+the burden that exists on upper motor neurons in affected patients.[32]
+
+Independent research provided _in vitro_ evidence that the primary cellular
+sites where SOD1 mutations act are located on
+[astrocytes](/wiki/Astrocyte).[33][34] Astrocytes then cause the toxic effects
+on the [motor neurons](/wiki/Motor_neurons). The specific mechanism of
+toxicity still needs to be investigated, but the findings are significant
+because they implicate cells other than neuron cells in neurodegeneration.[35]
+
+### Batten
+disease[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=7)]
+
+Main article: [Batten disease](/wiki/Batten_disease)
+
+Batten disease is a rare and fatal recessive neurodegenerative disorder that
+begins in childhood.[36] Batten disease is the common name for a group of
+[lysosomal storage disorders](/wiki/Lysosomal_storage_disorder) known as
+[neuronal ceroid lipofuscinoses](/wiki/Neuronal_ceroid_lipofuscinosis) (NCLs)
+– each caused by a specific gene mutation,[36] of which there are
+thirteen.[37] Since Batten disease is quite rare, its worldwide prevalence is
+about 1 in every 100,000 live births.[38] In North America, CLN3 disease
+(juvenile NCL) typically manifests between the ages of 4 to 7.[39] Batten
+disease is characterized by motor impairment, epilepsy, dementia, vision loss,
+and shortened lifespan.[40] A loss of vision is common first sign of Batten
+disease.[39] Loss of vision is typically preceded by cognitive and behavioral
+changes, seizures, and loss of the ability to walk.[39] It is common for
+people to establish cardiac arrhythmias and difficulties eating food as the
+disease progresses.[39] Batten disease diagnosis depends on a conflation of
+many criteria: clinical signs and symptoms, evaluations of the eye,
+electroencephalograms (EEG), and brain magnetic resonance imaging (MRI)
+results.[38] The diagnosis provided by these results are corroborated by
+genetic and biochemical testing.[38] No effective treatments were available to
+prevent the disease from being widespread before the past few years.[38] In
+recent years, more models have been created to expedite the research process
+for methods to treat Batten disease.[38]
+
+## Risk
+factor[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=8)]
+
+The greatest risk factor for neurodegenerative diseases is
+[aging](/wiki/Ageing). [Mitochondrial DNA mutations](/wiki/Free-
+radical_theory_of_aging#Mitochondrial_theory_of_aging) as well as [oxidative
+stress](/wiki/Oxidative_stress) both contribute to aging.[41] Many of these
+diseases are late-onset, meaning there is some factor that changes as a person
+ages for each disease.[2] One constant factor is that in each disease, neurons
+gradually lose function as the disease progresses with age. It has been
+proposed that [DNA damage](/wiki/DNA_damage_\(naturally_occurring\))
+accumulation provides the underlying causative link between
+[aging](/wiki/Ageing) and neurodegenerative disease.[42][43] About 20-40% of
+healthy people between 60 and 78 years old experience discernable decrements
+in cognitive performance in several domains including working, spatial, and
+episodic memory, and processing speed.[44]
+
+##
+Mechanisms[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=9)]
+
+###
+Genetics[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=10)]
+
+See also: [Trinucleotide repeat disorder](/wiki/Trinucleotide_repeat_disorder)
+and [Epigenetics of neurodegenerative
+diseases](/wiki/Epigenetics_of_neurodegenerative_diseases)
+
+Many neurodegenerative diseases are caused by [genetic
+mutations](/wiki/Genetic_mutation), most of which are located in completely
+unrelated genes. In many of the different diseases, the mutated gene has a
+common feature: a repeat of the CAG nucleotide triplet. CAG codes for the
+amino acid [glutamine](/wiki/Glutamine). A repeat of CAG results in a
+[polyglutamine (polyQ) tract](/wiki/Polyglutamine_tract). Diseases associated
+with such mutations are known as [trinucleotide repeat
+disorders](/wiki/Trinucleotide_repeat_disorder).[45][46]
+
+Polyglutamine repeats typically cause dominant pathogenesis. Extra glutamine
+residues can acquire toxic properties through a variety of ways, including
+irregular protein folding and degradation pathways, altered subcellular
+localization, and abnormal interactions with other cellular proteins.[45]
+PolyQ studies often use a variety of animal models because there is such a
+clearly defined trigger – repeat expansion. Extensive research has been done
+using the [models](/wiki/Model_organism) of [nematode](/wiki/Nematode) (_C.
+elegans_), and fruit fly (_Drosophila_), mice, and non-human primates.[46][47]
+
+Nine inherited neurodegenerative diseases are caused by the expansion of the
+CAG trinucleotide and polyQ tract, including [Huntington's
+disease](/wiki/Huntington%27s_disease) and the [spinocerebellar
+ataxias](/wiki/Spinocerebellar_ataxia).[48]
+
+### Protein misfolding[[edit](/w/index.php?title=Neurodegeneration&action=edit
+&section=11)]
+
+See also: [Stress granule](/wiki/Stress_granule)
+
+Several neurodegenerative diseases are classified as
+[proteopathies](/wiki/Proteopathy) as they are associated with the
+[aggregation](/wiki/Protein_aggregation) of [misfolded
+proteins](/wiki/Protein_folding). Protein toxicity is one of the key
+mechanisms of many neurodegenrative diseases.[49]
+
+  * **[alpha-synuclein](/wiki/Alpha-synuclein):** can aggregate to form insoluble fibrils in pathological conditions characterized by [Lewy bodies](/wiki/Lewy_bodies), such as Parkinson's disease, [dementia with Lewy bodies](/wiki/Dementia_with_Lewy_bodies), and multiple system atrophy. Alpha-synuclein is the primary structural component of Lewy body fibrils. In addition, an alpha-synuclein fragment, known as the non-Abeta component (NAC), is found in amyloid plaques in [Alzheimer's disease](/wiki/Alzheimer%27s_disease).
+  * **tau:** hyperphosphorylated [tau protein](/wiki/Tau_protein) is the main component of [neurofibrillary tangles](/wiki/Neurofibrillary_tangles) in Alzheimer's disease; tau fibrils are the main component of [Pick bodies](/wiki/Pick_bodies) found in [behavioral variant frontotemporal dementia](/wiki/Behavioral_variant_frontotemporal_dementia).
+  * **[beta amyloid](/wiki/Beta_amyloid):** the major component of [senile plaques](/wiki/Senile_plaques) in Alzheimer's disease.
+  * **[prion](/wiki/Prion):** main component of [prion diseases](/wiki/Prion_diseases) and [transmissible spongiform encephalopathy](/wiki/Transmissible_spongiform_encephalopathy).
+
+### Intracellular mechanisms[[edit](/w/index.php?title=Neurodegeneration&actio
+n=edit&section=12)]
+
+#### Protein degradation
+pathways[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=13)]
+
+[Parkinson's](/wiki/Parkinson%27s) disease and
+[Huntington's](/wiki/Huntington%27s) disease are both late-onset and
+associated with the accumulation of intracellular toxic proteins. Diseases
+caused by the aggregation of proteins are known as
+[proteinopathies](/wiki/Proteinopathy), and they are primarily caused by
+aggregates in the following structures:[2]
+
+  * cytosol, e.g. [Parkinson's](/wiki/Parkinson%27s) & [Huntington's](/wiki/Huntington%27s)
+  * nucleus, e.g. [Spinocerebellar ataxia type 1](/wiki/Spinocerebellar_ataxia_type_1) (SCA1)
+  * endoplasmic reticulum (ER), (as seen with neuroserpin mutations that cause familial encephalopathy with neuroserpin inclusion bodies)
+  * extracellularly excreted proteins, amyloid-β in Alzheimer's disease
+
+There are two main avenues eukaryotic cells use to remove troublesome proteins
+or organelles:
+
+  * **ubiquitin–proteasome:** protein [ubiquitin](/wiki/Ubiquitin) along with enzymes is key for the degradation of many proteins that cause proteinopathies including polyQ expansions and alpha-synucleins. Research indicates proteasome enzymes may not be able to correctly cleave these irregular proteins, which could possibly result in a more toxic species. This is the primary route cells use to degrade proteins.[2]
+    * Decreased proteasome activity is consistent with models in which intracellular protein aggregates form. It is still unknown whether or not these aggregates are a cause or a result of neurodegeneration.[2]
+  * **autophagy–lysosome pathways:** a form of [programmed cell death](/wiki/Programmed_cell_death) (PCD), this becomes the favorable route when a protein is aggregate-prone meaning it is a poor proteasome substrate. This can be split into two forms of autophagy: **[macroautophagy](/wiki/Macroautophagy)** and **chaperone-mediated autophagy (CMA)**.[2]
+    * **macroautophagy** is involved with nutrient recycling of macromolecules under conditions of starvation, certain apoptotic pathways, and if absent, leads to the formation of ubiquinated inclusions. Experiments in mice with neuronally confined macroautophagy-gene knockouts develop intraneuronal aggregates leading to neurodegeneration.[2]
+    * **chaperone-mediated autophagy** defects may also lead to neurodegeneration. Research has shown that mutant proteins bind to the CMA-pathway receptors on lysosomal membrane and in doing so block their own degradation as well as the degradation of other substrates.[2]
+
+#### Membrane
+damage[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=14)]
+
+Damage to the membranes of organelles by monomeric or oligomeric proteins
+could also contribute to these diseases. Alpha-synuclein can damage membranes
+by inducing membrane curvature,[16] and cause extensive tubulation and
+vesiculation when incubated with artificial phospholipid vesicles.[16] [The
+tubes formed from these lipid vesicles consist of both micellar as well as
+bilayer tubes. Extensive induction of membrane curvature is deleterious to the
+cell and would eventually lead to cell
+death.](http://www.jbc.org/content/287/35/29301.long)[Apart from tubular
+structures, alpha-synuclein can also form lipoprotein nanoparticles similar to
+apolipoproteins.](http://www.jbc.org/content/288/24/17620.long)
+
+#### Mitochondrial dysfunction[[edit](/w/index.php?title=Neurodegeneration&act
+ion=edit&section=15)]
+
+The most common form of cell death in neurodegeneration is through the
+intrinsic mitochondrial apoptotic pathway. This pathway controls the
+activation of caspase-9 by regulating the release of [cytochrome
+c](/wiki/Cytochrome_c) from the [mitochondrial intermembrane
+space](/wiki/Mitochondrion#Intermembrane_space). [Reactive oxygen
+species](/wiki/Reactive_oxygen_species) (ROS) are normal byproducts of
+mitochondrial respiratory chain activity. ROS concentration is mediated by
+mitochondrial antioxidants such as manganese superoxide dismutase (SOD2) and
+[glutathione peroxidase](/wiki/Glutathione_peroxidase). Over production of ROS
+([oxidative stress](/wiki/Oxidative_stress)) is a central feature of all
+neurodegenerative disorders. In addition to the generation of ROS,
+mitochondria are also involved with life-sustaining functions including
+calcium homeostasis, PCD, [mitochondrial fission](/wiki/Mitochondrial_fission)
+and [fusion](/wiki/Mitochondrial_fusion), lipid concentration of the
+mitochondrial membranes, and the mitochondrial permeability transition.
+[Mitochondrial disease](/wiki/Mitochondrial_disease) leading to
+neurodegeneration is likely, at least on some level, to involve all of these
+functions.[50]
+
+There is strong evidence that mitochondrial dysfunction and oxidative stress
+play a causal role in neurodegenerative disease pathogenesis, including in
+four of the more well known diseases [Alzheimer's](/wiki/Alzheimer%27s),
+[Parkinson's](/wiki/Parkinson%27s), [Huntington's](/wiki/Huntington%27s), and
+[Amyotrophic lateral sclerosis](/wiki/Amyotrophic_lateral_sclerosis).[41]
+
+[Neurons](/wiki/Neuron) are particularly vulnerable to [oxidative
+damage](/wiki/Oxidative_stress) due to their strong metabolic activity
+associated with high [transcription](/wiki/Transcription_\(biology\)) levels,
+high oxygen consumption, and weak [antioxidant](/wiki/Antioxidant)
+defense.[51][52]
+
+#### DNA
+damage[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=16)]
+
+The brain metabolizes as much as a fifth of consumed oxygen, and [reactive
+oxygen species](/wiki/Reactive_oxygen_species) produced by oxidative
+metabolism are a major source of [DNA
+damage](/wiki/DNA_damage_\(naturally_occurring\)) in the [brain](/wiki/Brain).
+Damage to a cell’s [DNA](/wiki/DNA) is particularly harmful because DNA is the
+blueprint for protein production and unlike other molecules it cannot simply
+be replaced by re-synthesis. The vulnerability of post-mitotic neurons to DNA
+damage (such as oxidative lesions or certain types of DNA strand breaks),
+coupled with a gradual decline in the activities of [repair
+mechanisms](/wiki/DNA_repair), could lead to accumulation of DNA damage with
+age and contribute to brain aging and neurodegeneration.[53] DNA single-strand
+breaks are common and are associated with the neurodegenerative disease
+ataxia-[oculomotor apraxia](/wiki/Oculomotor_apraxia).[54][52] Increased
+oxidative DNA damage in the brain is associated with [Alzheimer’s
+disease](/wiki/Biochemistry_of_Alzheimer%27s_disease) and [Parkinson’s
+disease](/wiki/Pathophysiology_of_Parkinson%27s_disease).[54] Defective DNA
+repair has been linked to neurodegenerative disorders such as [Alzheimer’s
+disease](/wiki/Biochemistry_of_Alzheimer%27s_disease), [amyotrophic lateral
+sclerosis](/wiki/Genetics_of_amyotrophic_lateral_sclerosis), [ataxia
+telangiectasia](/wiki/Ataxia_telangiectasia), [Cockayne
+syndrome](/wiki/Cockayne_syndrome), [Parkinson’s
+disease](/wiki/Pathophysiology_of_Parkinson%27s_disease) and [xeroderma
+pigmentosum](/wiki/Xeroderma_pigmentosum).[54][53]
+
+#### Axonal
+transport[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=17)]
+
+Main article: [Axonal transport](/wiki/Axonal_transport)
+
+Axonal swelling, and [axonal spheroids](/wiki/Axonal_spheroid) have been
+observed in many different neurodegenerative diseases. This suggests that
+defective axons are not only present in diseased neurons, but also that they
+may cause certain pathological insult due to accumulation of organelles.
+[Axonal transport](/wiki/Axonal_transport) can be disrupted by a variety of
+mechanisms including damage to: [kinesin](/wiki/Kinesin) and [cytoplasmic
+dynein](/wiki/Cytoplasmic_dynein), [microtubules](/wiki/Microtubules),
+cargoes, and [mitochondria](/wiki/Mitochondria).[15] When axonal transport is
+severely disrupted a degenerative pathway known as [Wallerian-like
+degeneration](/wiki/Wallerian_degeneration) is often triggered.[55]
+
+### Programmed cell
+death[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=18)]
+
+[Programmed cell death](/wiki/Programmed_cell_death) (**PCD**) is death of a
+[cell](/wiki/Cell_\(biology\)) in any form, mediated by an intracellular
+program.[56] This process can be activated in neurodegenerative diseases
+including Parkinson's disease, amytrophic lateral sclerosis, Alzheimer's
+disease and Huntington's disease.[57] PCD observed in neurodegenerative
+diseases may be directly pathogenic; alternatively, PCD may occur in response
+to other injury or disease processes.[3]
+
+#### Apoptosis (type
+I)[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=19)]
+
+[Apoptosis](/wiki/Apoptosis) is a form of programmed cell death in
+multicellular organisms. It is one of the main types of [programmed cell
+death](/wiki/Programmed_cell_death) (PCD) and involves a series of biochemical
+events leading to a characteristic cell morphology and death.
+
+  * **Extrinsic apoptotic pathways:** Occur when factors outside the cell activate cell surface death receptors (e.g., Fas) that result in the activation of [caspases](/wiki/Caspases)-8 or -10.[3]
+  * **Intrinsic apoptotic pathways:** Result from mitochondrial release of [cytochrome c](/wiki/Cytochrome_c) or endoplasmic reticulum malfunctions, each leading to the activation of caspase-9. The [nucleus](/wiki/Cell_nucleus) and [Golgi apparatus](/wiki/Golgi_apparatus) are other organelles that have damage sensors, which can lead the cells down apoptotic pathways.[3][58]
+
+[Caspases](/wiki/Caspases) (cysteine-aspartic acid proteases) cleave at very
+specific [amino acid](/wiki/Amino_acid) residues. There are two types of
+caspases: **initiators** and **effectors**. Initiator caspases cleave inactive
+forms of effector caspases. This activates the effectors that in turn cleave
+other proteins resulting in apoptotic initiation.[3]
+
+#### Autophagic (type
+II)[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=20)]
+
+Autophagy is a form of intracellular [phagocytosis](/wiki/Phagocytosis) in
+which a cell actively consumes damaged organelles or misfolded proteins by
+encapsulating them into an [autophagosome](/wiki/Autophagosome), which fuses
+with a lysosome to destroy the contents of the autophagosome. Because many
+neurodegenerative diseases show unusual protein aggregates, it is hypothesized
+that defects in autophagy could be a common mechanism of neurodegeneration.[3]
+
+#### Cytoplasmic (type
+III)[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=21)]
+
+PCD can also occur via non-apoptotic processes, also known as Type III or
+cytoplasmic cell death. For example, type III PCD might be caused by
+trophotoxicity, or hyperactivation of trophic factor receptors. Cytotoxins
+that induce PCD can cause [necrosis](/wiki/Necrosis) at low concentrations, or
+aponecrosis (combination of apoptosis and necrosis) at higher concentrations.
+It is still unclear exactly what combination of apoptosis, non-apoptosis, and
+necrosis causes different kinds of aponecrosis.[3]
+
+### Transglutaminase[[edit](/w/index.php?title=Neurodegeneration&action=edit&s
+ection=22)]
+
+[Transglutaminases](/wiki/Transglutaminase) are human [enzymes](/wiki/Enzymes)
+[ubiquitously](/wiki/Ubiquitously) present in the human body and in the brain
+in particular.[59]
+
+The main function of [transglutaminases](/wiki/Transglutaminases) is
+[bind](/wiki/Molecular_binding) proteins and peptides intra- and
+intermolecularly, by a type of [covalent bonds](/wiki/Covalent_bonds) termed
+[isopeptide bonds](/wiki/Isopeptide_bond), in a reaction termed
+[transamidation](/wiki/Isopeptide_bond) or
+[crosslinking](/wiki/Isopeptide_bond).[59]
+
+[Transglutaminase](/wiki/Transglutaminase) [binding](/wiki/Chemical_bond) of
+these proteins and peptides make them clump together. The resulting structures
+are turned extremely resistant to chemical and mechanical disruption.[59]
+
+Most relevant human neurodegenerative diseases share the property of having
+[abnormal structures made up of proteins and
+peptides](/wiki/Protein_aggregation).[59]
+
+Each of these neurodegenerative diseases have one (or several) specific main
+protein or peptide. In [Alzheimer's disease](/wiki/Alzheimer%27s_disease),
+these are [amyloid-beta](/wiki/Amyloid-beta) and [tau](/wiki/Tau). In
+[Parkinson’s](/wiki/Parkinson%E2%80%99s) disease, it is [alpha-
+synuclein](/wiki/Alpha-synuclein). In
+[Huntington’s](/wiki/Huntington%E2%80%99s) disease, it is
+[huntingtin](/wiki/Huntingtin).[59]
+
+**[Transglutaminase](/wiki/Transglutaminase) [substrates](/wiki/Substrate_\(chemistry\)):** [Amyloid-beta](/wiki/Amyloid-beta), [tau](/wiki/Tau), [alpha-synuclein](/wiki/Alpha-synuclein) and [huntingtin](/wiki/Huntingtin) have been proved to be [substrates](/wiki/Substrate_\(chemistry\)) of [transglutaminases](/wiki/Transglutaminases) in vitro or in vivo, that is, they can be [bonded](/wiki/Chemical_bond) by trasglutaminases by [covalent bonds](/wiki/Covalent_bonds) to each other and potentially to any other transglutaminase substrate in the brain.[59]
+
+**[Transglutaminase](/wiki/Transglutaminase) augmented expression:** It has been proved that in these neurodegenerative diseases (Alzheimer’s disease, Parkinson’s disease, and Huntington’s disease) the [expression](/wiki/Gene_expression) of the [transglutaminase](/wiki/Transglutaminase) [enzyme](/wiki/Enzyme) is increased.[59]
+
+**Presence of [isopeptide bonds](/wiki/Isopeptide_bond) in these structures:** The presence of [isopeptide bonds](/wiki/Isopeptide_bond) (the result of the [transglutaminase](/wiki/Transglutaminase) reaction) have been detected in the [abnormal structures that are characteristic of these neurodegenerative diseases](/wiki/Protein_aggregation).[59]
+
+**Co-localization:** Co-localization of transglutaminase mediated [isopeptide bonds](/wiki/Isopeptide_bond) with these [abnormal structures](/wiki/Protein_aggregation) has been detected in the autopsy of brains of patients with these diseases.[59]
+
+## Management[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=
+23)]
+
+The process of neurodegeneration is not well understood, so the diseases that
+stem from it have, as yet, no cures.
+
+### Animal models in
+research[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=24)]
+
+In the search for effective treatments (as opposed to [palliative
+care](/wiki/Palliative_care)), investigators employ [animal
+models](/wiki/Animal_model) of disease to test potential therapeutic agents.
+Model organisms provide an inexpensive and relatively quick means to perform
+two main functions: target identification and target validation. Together,
+these help show the value of any specific therapeutic strategies and drugs
+when attempting to ameliorate disease severity. An example is the drug
+[Dimebon](/wiki/Dimebon) by Medivation, Inc. In 2009 this drug was in phase
+III clinical trials for use in Alzheimer's disease, and also phase II clinical
+trials for use in Huntington's disease.[46] In March 2010, the results of a
+clinical trial phase III were released; the investigational Alzheimer's
+disease drug Dimebon failed in the pivotal CONNECTION trial of patients with
+mild-to-moderate disease.[60] With CONCERT, the remaining Pfizer and
+Medivation Phase III trial for Dimebon (latrepirdine) in Alzheimer's disease
+failed in 2012, effectively ending the development in this indication.[61]
+
+In another experiment using a rat model of Alzheimer's disease, it was
+demonstrated that systemic administration of [hypothalamic proline-rich
+peptide (PRP)-1](https://www.ncbi.nlm.nih.gov/pubmed/18790460) offers
+neuroprotective effects and can prevent neurodegeneration in hippocampus
+[amyloid-beta](/wiki/Amyloid-beta) 25–35. This suggests that there could be
+therapeutic value to PRP-1.[62]
+
+### Other avenues of investigation[[edit](/w/index.php?title=Neurodegeneration
+&action=edit&section=25)]
+
+Protein degradation offers therapeutic options both in preventing the
+synthesis and degradation of irregular proteins. There is also interest in
+upregulating autophagy to help clear protein aggregates implicated in
+neurodegeneration. Both of these options involve very complex pathways that we
+are only beginning to understand.[2]
+
+The goal of [immunotherapy](/wiki/Immunotherapy) is to enhance aspects of the
+immune system. Both active and passive vaccinations have been proposed for
+Alzheimer's disease and other conditions; however, more research must be done
+to prove safety and efficacy in humans.[63]
+
+A current therapeutic target for the treatment of Alzheimer's disease is the
+protease β-secretase[64][_[non-primary source needed](/wiki/Wikipedia:No_origi
+nal_research#Primary,_secondary_and_tertiary_sources)_], which is involved in
+the amyloidogenic processing pathway that leads to the pathological
+accumulation of proteins in the brain. When the gene that encodes for amyloid
+precursor protein (APP) is spliced by α-secretase[65][_[non-primary source nee
+ded](/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sour
+ces)_] rather than β-secretase, the toxic protein β amyloid is not produced.
+Targeted inhibition[66] of β-secretase can potentially prevent the neuronal
+death that is responsible for the symptoms of Alzheimer's disease.
+
+## See
+also[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=26)]
+
+  * [Amyloids](/wiki/Amyloids)
+  * [Dementia](/wiki/Dementia)
+  * [JUNQ and IPOD](/wiki/JUNQ_and_IPOD)
+  * [Nervous system](/wiki/Nervous_system)
+  * [Prevention of dementia](/wiki/Prevention_of_dementia)
+  * [Proteopathy](/wiki/Proteopathy)
+  * [Trinucleotide repeat disorders](/wiki/Trinucleotide_repeat_disorder)
+
+## References[[edit](/w/index.php?title=Neurodegeneration&action=edit&section=
+27)]
+
+  1. **^** ["What is Neurodegenerative Disease?"](http://www.neurodegenerationresearch.eu/about/what/). _JPND Research_. JPND Research. 17 July 2014. Retrieved February 7, 2015.
+  2. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ _**f**_ _**g**_ _**h**_ _**i**_ Rubinsztein DC (October 2006). "The roles of intracellular protein-degradation pathways in neurodegeneration". _Nature_. **443** (7113): 780–6. [Bibcode](/wiki/Bibcode_\(identifier\)):[2006Natur.443..780R](https://ui.adsabs.harvard.edu/abs/2006Natur.443..780R). [doi](/wiki/Doi_\(identifier\)):[10.1038/nature05291](https://doi.org/10.1038%2Fnature05291). [PMID](/wiki/PMID_\(identifier\)) [17051204](//pubmed.ncbi.nlm.nih.gov/17051204). [S2CID](/wiki/S2CID_\(identifier\)) [4411895](https://api.semanticscholar.org/CorpusID:4411895).
+  3. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ _**f**_ _**g**_ Bredesen DE, Rao RV, Mehlen P (October 2006). ["Cell death in the nervous system"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3970704). _Nature_. **443** (7113): 796–802. [Bibcode](/wiki/Bibcode_\(identifier\)):[2006Natur.443..796B](https://ui.adsabs.harvard.edu/abs/2006Natur.443..796B). [doi](/wiki/Doi_\(identifier\)):[10.1038/nature05293](https://doi.org/10.1038%2Fnature05293). [PMC](/wiki/PMC_\(identifier\)) [3970704](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3970704). [PMID](/wiki/PMID_\(identifier\)) [17051206](//pubmed.ncbi.nlm.nih.gov/17051206).
+  4. **^** Wenk GL (2003). "Neuropathologic changes in Alzheimer's disease". _The Journal of Clinical Psychiatry_. 64 Suppl 9: 7–10. [PMID](/wiki/PMID_\(identifier\)) [12934968](//pubmed.ncbi.nlm.nih.gov/12934968).
+  5. **^** Lock MM (27 October 2013). _[The Alzheimer conundrum : entanglements of dementia and aging_](https://www.worldcat.org/oclc/859536969). Princeton. [ISBN](/wiki/ISBN_\(identifier\)) [978-1-4008-4846-1](/wiki/Special:BookSources/978-1-4008-4846-1). [OCLC](/wiki/OCLC_\(identifier\)) [859536969](//www.worldcat.org/oclc/859536969).
+  6. **^** Delrieu J, Ousset PJ, Caillaud C, Vellas B (January 2012). ["'Clinical trials in Alzheimer's disease': immunotherapy approaches"](https://doi.org/10.1111%2Fj.1471-4159.2011.07458.x). _Journal of Neurochemistry_. 120 Suppl 1: 186–93. [doi](/wiki/Doi_\(identifier\)):[10.1111/j.1471-4159.2011.07458.x](https://doi.org/10.1111%2Fj.1471-4159.2011.07458.x). [PMID](/wiki/PMID_\(identifier\)) [21883222](//pubmed.ncbi.nlm.nih.gov/21883222).
+  7. ^ _**a**_ _**b**_ Archer MC, Hall PH, Morgan JC (2017). "[P2–430]: Accuracy of Clinical Diagnosis of Alzheimer's Disease in Alzheimer's Disease Centers (ADCS)". _Alzheimer's & Dementia_. **13** (7S_Part_16): P800–P801. [doi](/wiki/Doi_\(identifier\)):[10.1016/j.jalz.2017.06.1086](https://doi.org/10.1016%2Fj.jalz.2017.06.1086). [S2CID](/wiki/S2CID_\(identifier\)) [54359937](https://api.semanticscholar.org/CorpusID:54359937).
+  8. **^** Priller C, Bauer T, Mitteregger G, Krebs B, Kretzschmar HA, Herms J (July 2006). ["Synapse formation and function is modulated by the amyloid precursor protein"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6673945). _The Journal of Neuroscience_. **26** (27): 7212–21. [doi](/wiki/Doi_\(identifier\)):[10.1523/JNEUROSCI.1450-06.2006](https://doi.org/10.1523%2FJNEUROSCI.1450-06.2006). [PMC](/wiki/PMC_\(identifier\)) [6673945](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6673945). [PMID](/wiki/PMID_\(identifier\)) [16822978](//pubmed.ncbi.nlm.nih.gov/16822978).
+  9. **^** Turner PR, O'Connor K, Tate WP, Abraham WC (May 2003). "Roles of amyloid precursor protein and its fragments in regulating neural activity, plasticity and memory". _Progress in Neurobiology_. **70** (1): 1–32. [doi](/wiki/Doi_\(identifier\)):[10.1016/S0301-0082(03)00089-3](https://doi.org/10.1016%2FS0301-0082%2803%2900089-3). [PMID](/wiki/PMID_\(identifier\)) [12927332](//pubmed.ncbi.nlm.nih.gov/12927332). [S2CID](/wiki/S2CID_\(identifier\)) [25376584](https://api.semanticscholar.org/CorpusID:25376584).
+  10. **^** Hooper NM (April 2005). "Roles of proteolysis and lipid rafts in the processing of the amyloid precursor protein and prion protein". _Biochemical Society Transactions_. **33** (Pt 2): 335–8. [doi](/wiki/Doi_\(identifier\)):[10.1042/BST0330335](https://doi.org/10.1042%2FBST0330335). [PMID](/wiki/PMID_\(identifier\)) [15787600](//pubmed.ncbi.nlm.nih.gov/15787600).
+  11. **^** Tiraboschi P, Hansen LA, Thal LJ, Corey-Bloom J (June 2004). "The importance of neuritic plaques and tangles to the development and evolution of AD". _Neurology_. **62** (11): 1984–9. [doi](/wiki/Doi_\(identifier\)):[10.1212/01.WNL.0000129697.01779.0A](https://doi.org/10.1212%2F01.WNL.0000129697.01779.0A). [PMID](/wiki/PMID_\(identifier\)) [15184601](//pubmed.ncbi.nlm.nih.gov/15184601). [S2CID](/wiki/S2CID_\(identifier\)) [25017332](https://api.semanticscholar.org/CorpusID:25017332).
+  12. **^** Ohnishi S, Takano K (March 2004). "Amyloid fibrils from the viewpoint of protein folding". _Cellular and Molecular Life Sciences_. **61** (5): 511–524. [doi](/wiki/Doi_\(identifier\)):[10.1007/s00018-003-3264-8](https://doi.org/10.1007%2Fs00018-003-3264-8). [PMID](/wiki/PMID_\(identifier\)) [15004691](//pubmed.ncbi.nlm.nih.gov/15004691). [S2CID](/wiki/S2CID_\(identifier\)) [25739126](https://api.semanticscholar.org/CorpusID:25739126).
+  13. **^** Elbaz A, Carcaillon L, Kab S, Moisan F (January 2016). "Epidemiology of Parkinson's disease". _Revue Neurologique_. **172** (1): 14–26. [doi](/wiki/Doi_\(identifier\)):[10.1016/j.neurol.2015.09.012](https://doi.org/10.1016%2Fj.neurol.2015.09.012). [PMID](/wiki/PMID_\(identifier\)) [26718594](//pubmed.ncbi.nlm.nih.gov/26718594).
+  14. **^** "Parkinson's Disease Mechanism Discovered," [HHMI Research News](http://www.hhmi.org/news/lindquist20060622.html) June 22, 2006.
+  15. ^ _**a**_ _**b**_ _**c**_ De Vos KJ, Grierson AJ, Ackerley S, Miller CC (2008). "Role of axonal transport in neurodegenerative diseases". _Annual Review of Neuroscience_. **31**: 151–73. [doi](/wiki/Doi_\(identifier\)):[10.1146/annurev.neuro.31.061307.090711](https://doi.org/10.1146%2Fannurev.neuro.31.061307.090711). [PMID](/wiki/PMID_\(identifier\)) [18558852](//pubmed.ncbi.nlm.nih.gov/18558852).
+  16. ^ _**a**_ _**b**_ _**c**_ Varkey J, Isas JM, Mizuno N, Jensen MB, Bhatia VK, Jao CC, et al. (October 2010). ["Membrane curvature induction and tubulation are common features of synucleins and apolipoproteins"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2952250). _The Journal of Biological Chemistry_. **285** (42): 32486–93. [doi](/wiki/Doi_\(identifier\)):[10.1074/jbc.M110.139576](https://doi.org/10.1074%2Fjbc.M110.139576). [PMC](/wiki/PMC_\(identifier\)) [2952250](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2952250). [PMID](/wiki/PMID_\(identifier\)) [20693280](//pubmed.ncbi.nlm.nih.gov/20693280).
+  17. **^** Davis AA, Andruska KM, Benitez BA, Racette BA, Perlmutter JS, Cruchaga C (January 2016). ["Variants in GBA, SNCA, and MAPT influence Parkinson disease risk, age at onset, and progression"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4688052). _Neurobiology of Aging_. **37**: 209.e1–209.e7. [doi](/wiki/Doi_\(identifier\)):[10.1016/j.neurobiolaging.2015.09.014](https://doi.org/10.1016%2Fj.neurobiolaging.2015.09.014). [PMC](/wiki/PMC_\(identifier\)) [4688052](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4688052). [PMID](/wiki/PMID_\(identifier\)) [26601739](//pubmed.ncbi.nlm.nih.gov/26601739).
+  18. ^ _**a**_ _**b**_ _**c**_ Schmidt, Nele; Paschen, Laura; Witt, Karsten (2020-11-16). Mirabella, Giovanni (ed.). ["Invalid Self-Assessment of Olfactory Functioning in Parkinson's Disease Patients May Mislead the Neurologist"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7683170). _Parkinson's Disease_. **2020**: 1–5. [doi](/wiki/Doi_\(identifier\)):[10.1155/2020/7548394](https://doi.org/10.1155%2F2020%2F7548394). [ISSN](/wiki/ISSN_\(identifier\)) [2042-0080](//www.worldcat.org/issn/2042-0080). [PMC](/wiki/PMC_\(identifier\)) [7683170](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7683170). [PMID](/wiki/PMID_\(identifier\)) [33274040](//pubmed.ncbi.nlm.nih.gov/33274040).
+  19. **^** Hill-Burns, Erin M.; Debelius, Justine W.; Morton, James T.; Wissemann, William T.; Lewis, Matthew R.; Wallen, Zachary D.; Peddada, Shyamal D.; Factor, Stewart A.; Molho, Eric; Zabetian, Cyrus P.; Knight, Rob (May 2017). ["Parkinson's disease and Parkinson's disease medications have distinct signatures of the gut microbiome: PD, Medications, and Gut Microbiome"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5469442). _Movement Disorders_. **32** (5): 739–749. [doi](/wiki/Doi_\(identifier\)):[10.1002/mds.26942](https://doi.org/10.1002%2Fmds.26942). [PMC](/wiki/PMC_\(identifier\)) [5469442](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5469442). [PMID](/wiki/PMID_\(identifier\)) [28195358](//pubmed.ncbi.nlm.nih.gov/28195358).
+  20. **^** Purves D, Augustine GA, Fitzpatrick D, Hall W, LaMantia AS, McNamara JO, Williams SM (2001). ["Modulation of Movement by the Basal Ganglia - Circuits within the Basal Ganglia System"](https://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=Huntington's%20disease&rid=neurosci.section.1251). In Dale Purves (ed.). _[Neuroscience_](https://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=neurosci.TOC&depth=2) (2nd ed.). Sunderland, MA: Sinauer Associates. [ISBN](/wiki/ISBN_\(identifier\)) [978-0-87893-742-4](/wiki/Special:BookSources/978-0-87893-742-4).
+  21. **^** Estrada Sánchez AM, Mejía-Toiber J, Massieu L (April 2008). "Excitotoxic neuronal death and the pathogenesis of Huntington's disease". _Archives of Medical Research_. **39** (3): 265–76. [doi](/wiki/Doi_\(identifier\)):[10.1016/j.arcmed.2007.11.011](https://doi.org/10.1016%2Fj.arcmed.2007.11.011). [PMID](/wiki/PMID_\(identifier\)) [18279698](//pubmed.ncbi.nlm.nih.gov/18279698).
+  22. **^** Lobsiger CS, Cleveland DW (November 2007). ["Glial cells as intrinsic components of non-cell-autonomous neurodegenerative disease"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3110080). _Nature Neuroscience_. **10** (11): 1355–60. [doi](/wiki/Doi_\(identifier\)):[10.1038/nn1988](https://doi.org/10.1038%2Fnn1988). [PMC](/wiki/PMC_\(identifier\)) [3110080](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3110080). [PMID](/wiki/PMID_\(identifier\)) [17965655](//pubmed.ncbi.nlm.nih.gov/17965655).
+  23. **^** Purves D, Augustine GA, Fitzpatrick D, Hall W, LaMantia AS, McNamara JO, Williams SM (2001). ["Modulation of Movement by the Basal Ganglia - Box A. Huntington's Disease"](https://www.ncbi.nlm.nih.gov/books/bv.fcgi?highlight=Huntington's%20disease&rid=neurosci.box.1240). In Dale Purves (ed.). _[Neuroscience_](https://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=neurosci.TOC&depth=2) (2nd ed.). Sunderland, MA: Sinauer Associates. [ISBN](/wiki/ISBN_\(identifier\)) [978-0-87893-742-4](/wiki/Special:BookSources/978-0-87893-742-4).
+  24. **^** Crossman AR (May 2000). ["Functional anatomy of movement disorders"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1468094). _Journal of Anatomy_. 196 ( Pt 4) (4): 519–25. [doi](/wiki/Doi_\(identifier\)):[10.1046/j.1469-7580.2000.19640519.x](https://doi.org/10.1046%2Fj.1469-7580.2000.19640519.x). [PMC](/wiki/PMC_\(identifier\)) [1468094](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1468094). [PMID](/wiki/PMID_\(identifier\)) [10923984](//pubmed.ncbi.nlm.nih.gov/10923984).
+  25. ^ _**a**_ _**b**_ Barnat, Monia; Capizzi, Mariacristina; Aparicio, Esther; Boluda, Susana; Wennagel, Doris; Kacher, Radhia; Kassem, Rayane; Lenoir, Sophie; Agasse, Fabienne; Braz, Barbara Y.; Liu, Jeh-Ping (2020-08-14). ["Huntington's disease alters human neurodevelopment"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7859879). _Science_. **369** (6505): 787–793. [Bibcode](/wiki/Bibcode_\(identifier\)):[2020Sci...369..787B](https://ui.adsabs.harvard.edu/abs/2020Sci...369..787B). [doi](/wiki/Doi_\(identifier\)):[10.1126/science.aax3338](https://doi.org/10.1126%2Fscience.aax3338). [ISSN](/wiki/ISSN_\(identifier\)) [0036-8075](//www.worldcat.org/issn/0036-8075). [PMC](/wiki/PMC_\(identifier\)) [7859879](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7859879). [PMID](/wiki/PMID_\(identifier\)) [32675289](//pubmed.ncbi.nlm.nih.gov/32675289).
+  26. **^** Labbadia J, Morimoto RI (August 2013). ["Huntington's disease: underlying molecular mechanisms and emerging concepts"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3955166). _Trends in Biochemical Sciences_. **38** (8): 378–85. [doi](/wiki/Doi_\(identifier\)):[10.1016/j.tibs.2013.05.003](https://doi.org/10.1016%2Fj.tibs.2013.05.003). [PMC](/wiki/PMC_\(identifier\)) [3955166](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3955166). [PMID](/wiki/PMID_\(identifier\)) [23768628](//pubmed.ncbi.nlm.nih.gov/23768628).
+  27. ^ _**a**_ _**b**_ ["Multiple Sclerosis: Hope Through Research | National Institute of Neurological Disorders and Stroke"](https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Hope-Through-Research/Multiple-Sclerosis-Hope-Through-Research). _www.ninds.nih.gov_. Retrieved 2020-11-30.
+  28. **^** Kaufman, David Myland; Milstein, Mark J. (2013-01-01), Kaufman, David Myland; Milstein, Mark J. (eds.), ["Chapter 15 - Multiple Sclerosis"](http://www.sciencedirect.com/science/article/pii/B9780723437482000153), _Kaufman's Clinical Neurology for Psychiatrists (Seventh Edition)_, Philadelphia: W.B. Saunders, pp. 329–349, [ISBN](/wiki/ISBN_\(identifier\)) [978-0-7234-3748-2](/wiki/Special:BookSources/978-0-7234-3748-2), retrieved 2020-12-07
+  29. ^ _**a**_ _**b**_ _**c**_ Stys, Peter K.; Tsutsui, Shigeki (2019-12-13). ["Recent advances in understanding multiple sclerosis"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6915812). _F1000Research_. **8**: 2100. [doi](/wiki/Doi_\(identifier\)):[10.12688/f1000research.20906.1](https://doi.org/10.12688%2Ff1000research.20906.1). [ISSN](/wiki/ISSN_\(identifier\)) [2046-1402](//www.worldcat.org/issn/2046-1402). [PMC](/wiki/PMC_\(identifier\)) [6915812](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6915812). [PMID](/wiki/PMID_\(identifier\)) [31885862](//pubmed.ncbi.nlm.nih.gov/31885862).
+  30. **^** Teunissen, Charlotte (2008-07-08). ["Faculty Opinions recommendation of Remyelination protects axons from demyelination-associated axon degeneration"](https://dx.doi.org/10.3410/f.1115522.571562). _Brain: A Journal of Neurology_. **131** (Pt 6). [doi](/wiki/Doi_\(identifier\)):[10.3410/f.1115522.571562](https://doi.org/10.3410%2Ff.1115522.571562). Retrieved 2020-12-07.
+  31. ^ _**a**_ _**b**_ _**c**_ Min YG, Choi SJ, Hong YH, Kim SM, Shin JY, Sung JJ (September 2020). ["Dissociated leg muscle atrophy in amyotrophic lateral sclerosis/motor neuron disease: the 'split-leg' sign"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7518279). _Scientific Reports_. **10** (1): 15661. [Bibcode](/wiki/Bibcode_\(identifier\)):[2020NatSR..1015661M](https://ui.adsabs.harvard.edu/abs/2020NatSR..1015661M). [doi](/wiki/Doi_\(identifier\)):[10.1038/s41598-020-72887-7](https://doi.org/10.1038%2Fs41598-020-72887-7). [PMC](/wiki/PMC_\(identifier\)) [7518279](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7518279). [PMID](/wiki/PMID_\(identifier\)) [32973334](//pubmed.ncbi.nlm.nih.gov/32973334).
+  32. ^ _**a**_ _**b**_ _**c**_ _**d**_ Quinn C, Edmundson C, Dahodwala N, Elman L (April 2020). "Reliable and efficient scale to assess upper motor neuron disease burden in amyotrophic lateral sclerosis". _Muscle & Nerve_. **61** (4): 508–511. [doi](/wiki/Doi_\(identifier\)):[10.1002/mus.26764](https://doi.org/10.1002%2Fmus.26764). [PMID](/wiki/PMID_\(identifier\)) [31743477](//pubmed.ncbi.nlm.nih.gov/31743477). [S2CID](/wiki/S2CID_\(identifier\)) [208186566](https://api.semanticscholar.org/CorpusID:208186566).
+  33. **^** Nagai M, Re DB, Nagata T, Chalazonitis A, Jessell TM, Wichterle H, Przedborski S (May 2007). ["Astrocytes expressing ALS-linked mutated SOD1 release factors selectively toxic to motor neurons"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3799799). _Nature Neuroscience_. **10** (5): 615–22. [doi](/wiki/Doi_\(identifier\)):[10.1038/nn1876](https://doi.org/10.1038%2Fnn1876). [PMC](/wiki/PMC_\(identifier\)) [3799799](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3799799). [PMID](/wiki/PMID_\(identifier\)) [17435755](//pubmed.ncbi.nlm.nih.gov/17435755).
+  34. **^** Di Giorgio FP, Carrasco MA, Siao MC, Maniatis T, Eggan K (May 2007). ["Non-cell autonomous effect of glia on motor neurons in an embryonic stem cell-based ALS model"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3139463). _Nature Neuroscience_. **10** (5): 608–14. [doi](/wiki/Doi_\(identifier\)):[10.1038/nn1885](https://doi.org/10.1038%2Fnn1885). [PMC](/wiki/PMC_\(identifier\)) [3139463](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3139463). [PMID](/wiki/PMID_\(identifier\)) [17435754](//pubmed.ncbi.nlm.nih.gov/17435754).
+  35. **^** Julien JP (May 2007). ["ALS: astrocytes move in as deadly neighbors"](https://doi.org/10.1038%2Fnn0507-535). _Nature Neuroscience_. **10** (5): 535–7. [doi](/wiki/Doi_\(identifier\)):[10.1038/nn0507-535](https://doi.org/10.1038%2Fnn0507-535). [PMID](/wiki/PMID_\(identifier\)) [17453052](//pubmed.ncbi.nlm.nih.gov/17453052). [S2CID](/wiki/S2CID_\(identifier\)) [2987257](https://api.semanticscholar.org/CorpusID:2987257).
+  36. ^ _**a**_ _**b**_ ["Batten Disease Fact Sheet | National Institute of Neurological Disorders and Stroke"](https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Batten-Disease-Fact-Sheet). _www.ninds.nih.gov_. Retrieved 30 November 2020.
+  37. **^** Johnson TB, Cain JT, White KA, Ramirez-Montealegre D, Pearce DA, Weimer JM (March 2019). ["Therapeutic landscape for Batten disease: current treatments and future prospects"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6681450). _Nature Reviews. Neurology_. **15** (3): 161–178. [doi](/wiki/Doi_\(identifier\)):[10.1038/s41582-019-0138-8](https://doi.org/10.1038%2Fs41582-019-0138-8). [PMC](/wiki/PMC_\(identifier\)) [6681450](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6681450). [PMID](/wiki/PMID_\(identifier\)) [30783219](//pubmed.ncbi.nlm.nih.gov/30783219).
+  38. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ Johnson, Tyler B.; Cain, Jacob T.; White, Katherine A.; Ramirez-Montealegre, Denia; Pearce, David A.; Weimer, Jill M. (March 2019). ["Therapeutic landscape for Batten disease: current treatments and future prospects"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6681450). _Nature Reviews Neurology_. **15** (3): 161–178. [doi](/wiki/Doi_\(identifier\)):[10.1038/s41582-019-0138-8](https://doi.org/10.1038%2Fs41582-019-0138-8). [ISSN](/wiki/ISSN_\(identifier\)) [1759-4758](//www.worldcat.org/issn/1759-4758). [PMC](/wiki/PMC_\(identifier\)) [6681450](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6681450). [PMID](/wiki/PMID_\(identifier\)) [30783219](//pubmed.ncbi.nlm.nih.gov/30783219).
+  39. ^ _**a**_ _**b**_ _**c**_ _**d**_ Masten MC, Williams JD, Vermilion J, Adams HR, Vierhile A, Collins A, et al. (June 2020). ["The CLN3 Disease Staging System: A new tool for clinical research in Batten disease"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7455368). _Neurology_. **94** (23): e2436–e2440. [doi](/wiki/Doi_\(identifier\)):[10.1212/WNL.0000000000009454](https://doi.org/10.1212%2FWNL.0000000000009454). [PMC](/wiki/PMC_\(identifier\)) [7455368](//www.ncbi.nlm.nih.gov/pmc/articles/PMC7455368). [PMID](/wiki/PMID_\(identifier\)) [32300063](//pubmed.ncbi.nlm.nih.gov/32300063).
+  40. **^** Hartnett L (2019-09-30). "Batten disease". _Learning Disability Practice_. **22** (5): 22. [doi](/wiki/Doi_\(identifier\)):[10.7748/ldp.22.5.22.s16](https://doi.org/10.7748%2Fldp.22.5.22.s16).
+  41. ^ _**a**_ _**b**_ Lin MT, Beal MF (October 2006). "Mitochondrial dysfunction and oxidative stress in neurodegenerative diseases". _Nature_. **443** (7113): 787–95. [Bibcode](/wiki/Bibcode_\(identifier\)):[2006Natur.443..787L](https://ui.adsabs.harvard.edu/abs/2006Natur.443..787L). [doi](/wiki/Doi_\(identifier\)):[10.1038/nature05292](https://doi.org/10.1038%2Fnature05292). [PMID](/wiki/PMID_\(identifier\)) [17051205](//pubmed.ncbi.nlm.nih.gov/17051205). [S2CID](/wiki/S2CID_\(identifier\)) [4421515](https://api.semanticscholar.org/CorpusID:4421515).
+  42. **^** Bernstein C, Bernstein H (1991). _Aging, Sex, and DNA Repair_. San Diego: Academic Press. pp. 121–139. [ISBN](/wiki/ISBN_\(identifier\)) [978-0120928606](/wiki/Special:BookSources/978-0120928606).
+  43. **^** Maynard S, Fang EF, Scheibye-Knudsen M, Croteau DL, Bohr VA (September 2015). ["DNA Damage, DNA Repair, Aging, and Neurodegeneration"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4588127). _Cold Spring Harbor Perspectives in Medicine_. **5** (10): a025130. [doi](/wiki/Doi_\(identifier\)):[10.1101/cshperspect.a025130](https://doi.org/10.1101%2Fcshperspect.a025130). [PMC](/wiki/PMC_\(identifier\)) [4588127](//www.ncbi.nlm.nih.gov/pmc/articles/PMC4588127). [PMID](/wiki/PMID_\(identifier\)) [26385091](//pubmed.ncbi.nlm.nih.gov/26385091).
+  44. **^** Camandola S, Mattson MP (June 2017). ["Brain metabolism in health, aging, and neurodegeneration"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5452017). _The EMBO Journal_. **36** (11): 1474–1492. [doi](/wiki/Doi_\(identifier\)):[10.15252/embj.201695810](https://doi.org/10.15252%2Fembj.201695810). [PMC](/wiki/PMC_\(identifier\)) [5452017](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5452017). [PMID](/wiki/PMID_\(identifier\)) [28438892](//pubmed.ncbi.nlm.nih.gov/28438892).
+  45. ^ _**a**_ _**b**_ Thompson LM (April 2008). ["Neurodegeneration: a question of balance"](https://doi.org/10.1038%2F452707a). _Nature_. **452** (7188): 707–8. [Bibcode](/wiki/Bibcode_\(identifier\)):[2008Natur.452..707T](https://ui.adsabs.harvard.edu/abs/2008Natur.452..707T). [doi](/wiki/Doi_\(identifier\)):[10.1038/452707a](https://doi.org/10.1038%2F452707a). [PMID](/wiki/PMID_\(identifier\)) [18401401](//pubmed.ncbi.nlm.nih.gov/18401401). [S2CID](/wiki/S2CID_\(identifier\)) [205037169](https://api.semanticscholar.org/CorpusID:205037169).
+  46. ^ _**a**_ _**b**_ _**c**_ Marsh JL, Lukacsovich T, Thompson LM (March 2009). ["Animal models of polyglutamine diseases and therapeutic approaches"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2658038). _The Journal of Biological Chemistry_. **284** (12): 7431–5. [doi](/wiki/Doi_\(identifier\)):[10.1074/jbc.R800065200](https://doi.org/10.1074%2Fjbc.R800065200). [PMC](/wiki/PMC_\(identifier\)) [2658038](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2658038). [PMID](/wiki/PMID_\(identifier\)) [18957429](//pubmed.ncbi.nlm.nih.gov/18957429).
+  47. **^** Orr HT (March 2009). ["Unstable nucleotide repeat minireview series: a molecular biography of unstable repeat disorders"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2658033). _The Journal of Biological Chemistry_. **284** (12): 7405. [doi](/wiki/Doi_\(identifier\)):[10.1074/jbc.R800067200](https://doi.org/10.1074%2Fjbc.R800067200). [PMC](/wiki/PMC_\(identifier\)) [2658033](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2658033). [PMID](/wiki/PMID_\(identifier\)) [18957428](//pubmed.ncbi.nlm.nih.gov/18957428).
+  48. **^** Zoghbi HY, Orr HT (March 2009). ["Pathogenic mechanisms of a polyglutamine-mediated neurodegenerative disease, spinocerebellar ataxia type 1"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2658037). _The Journal of Biological Chemistry_. **284** (12): 7425–9. [doi](/wiki/Doi_\(identifier\)):[10.1074/jbc.R800041200](https://doi.org/10.1074%2Fjbc.R800041200). [PMC](/wiki/PMC_\(identifier\)) [2658037](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2658037). [PMID](/wiki/PMID_\(identifier\)) [18957430](//pubmed.ncbi.nlm.nih.gov/18957430).
+  49. **^** Chung, CG; Lee, H; Lee, SB (September 2018). ["Mechanisms of protein toxicity in neurodegenerative diseases"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6063327). _Cellular and Molecular Life Sciences_. **75** (17): 3159–3180. [doi](/wiki/Doi_\(identifier\)):[10.1007/s00018-018-2854-4](https://doi.org/10.1007%2Fs00018-018-2854-4). [PMC](/wiki/PMC_\(identifier\)) [6063327](//www.ncbi.nlm.nih.gov/pmc/articles/PMC6063327). [PMID](/wiki/PMID_\(identifier\)) [29947927](//pubmed.ncbi.nlm.nih.gov/29947927).
+  50. **^** DiMauro S, Schon EA (2008). "Mitochondrial disorders in the nervous system". _Annual Review of Neuroscience_. **31**: 91–123. [doi](/wiki/Doi_\(identifier\)):[10.1146/annurev.neuro.30.051606.094302](https://doi.org/10.1146%2Fannurev.neuro.30.051606.094302). [PMID](/wiki/PMID_\(identifier\)) [18333761](//pubmed.ncbi.nlm.nih.gov/18333761).
+  51. **^** Liu Z, Zhou T, Ziegler AC, Dimitrion P, Zuo L (2017). ["Oxidative Stress in Neurodegenerative Diseases: From Molecular Mechanisms to Clinical Applications"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5529664). _Oxidative Medicine and Cellular Longevity_. **2017**: 2525967. [doi](/wiki/Doi_\(identifier\)):[10.1155/2017/2525967](https://doi.org/10.1155%2F2017%2F2525967). [PMC](/wiki/PMC_\(identifier\)) [5529664](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5529664). [PMID](/wiki/PMID_\(identifier\)) [28785371](//pubmed.ncbi.nlm.nih.gov/28785371).
+  52. ^ _**a**_ _**b**_ Wang H, Dharmalingam P, Vasquez V, Mitra J, Boldogh I, Rao KS, et al. (January 2017). ["Chronic oxidative damage together with genome repair deficiency in the neurons is a double whammy for neurodegeneration: Is damage response signaling a potential therapeutic target?"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5316312). _Mechanisms of Ageing and Development_. **161** (Pt A): 163–176. [doi](/wiki/Doi_\(identifier\)):[10.1016/j.mad.2016.09.005](https://doi.org/10.1016%2Fj.mad.2016.09.005). [PMC](/wiki/PMC_\(identifier\)) [5316312](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5316312). [PMID](/wiki/PMID_\(identifier\)) [27663141](//pubmed.ncbi.nlm.nih.gov/27663141).
+  53. ^ _**a**_ _**b**_ Madabhushi R, Pan L, Tsai LH (July 2014). ["DNA damage and its links to neurodegeneration"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5564444). _Neuron_. **83** (2): 266–282. [doi](/wiki/Doi_\(identifier\)):[10.1016/j.neuron.2014.06.034](https://doi.org/10.1016%2Fj.neuron.2014.06.034). [PMC](/wiki/PMC_\(identifier\)) [5564444](//www.ncbi.nlm.nih.gov/pmc/articles/PMC5564444). [PMID](/wiki/PMID_\(identifier\)) [25033177](//pubmed.ncbi.nlm.nih.gov/25033177).
+  54. ^ _**a**_ _**b**_ _**c**_ Jeppesen DK, Bohr VA, Stevnsner T (July 2011). ["DNA repair deficiency in neurodegeneration"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3123739). _Progress in Neurobiology_. **94** (2): 166–200. [doi](/wiki/Doi_\(identifier\)):[10.1016/j.pneurobio.2011.04.013](https://doi.org/10.1016%2Fj.pneurobio.2011.04.013). [PMC](/wiki/PMC_\(identifier\)) [3123739](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3123739). [PMID](/wiki/PMID_\(identifier\)) [21550379](//pubmed.ncbi.nlm.nih.gov/21550379).
+  55. **^** Coleman MP & Freeman MF 'Wallerian degeneration, WldS and Nmnat' Annual Review of Neuroscience 2010, 33: 245-67
+  56. **^** Engelberg-Kulka H, Amitai S, Kolodkin-Gal I, Hazan R (October 2006). ["Bacterial programmed cell death and multicellular behavior in bacteria"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1626106). _PLOS Genetics_. **2** (10): e135. [doi](/wiki/Doi_\(identifier\)):[10.1371/journal.pgen.0020135](https://doi.org/10.1371%2Fjournal.pgen.0020135). [PMC](/wiki/PMC_\(identifier\)) [1626106](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1626106). [PMID](/wiki/PMID_\(identifier\)) [17069462](//pubmed.ncbi.nlm.nih.gov/17069462).
+  57. **^** Vila M, Przedborski S (May 2003). "Targeting programmed cell death in neurodegenerative diseases". _Nature Reviews. Neuroscience_. **4** (5): 365–75. [doi](/wiki/Doi_\(identifier\)):[10.1038/nrn1100](https://doi.org/10.1038%2Fnrn1100). [PMID](/wiki/PMID_\(identifier\)) [12728264](//pubmed.ncbi.nlm.nih.gov/12728264). [S2CID](/wiki/S2CID_\(identifier\)) [33018251](https://api.semanticscholar.org/CorpusID:33018251).
+  58. **^** Green DR, Kroemer G (October 2005). ["Pharmacological manipulation of cell death: clinical applications in sight?"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1236695). _The Journal of Clinical Investigation_. **115** (10): 2610–7. [doi](/wiki/Doi_\(identifier\)):[10.1172/JCI26321](https://doi.org/10.1172%2FJCI26321). [PMC](/wiki/PMC_\(identifier\)) [1236695](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1236695). [PMID](/wiki/PMID_\(identifier\)) [16200193](//pubmed.ncbi.nlm.nih.gov/16200193).
+  59. ^ _**a**_ _**b**_ _**c**_ _**d**_ _**e**_ _**f**_ _**g**_ _**h**_ _**i**_ Caccamo D, Currò M, Condello S, Ferlazzo N, Ientile R (February 2010). "Critical role of transglutaminase and other stress proteins during neurodegenerative processes". _Amino Acids_. **38** (2): 653–8. [doi](/wiki/Doi_\(identifier\)):[10.1007/s00726-009-0428-3](https://doi.org/10.1007%2Fs00726-009-0428-3). [PMID](/wiki/PMID_\(identifier\)) [19960212](//pubmed.ncbi.nlm.nih.gov/19960212). [S2CID](/wiki/S2CID_\(identifier\)) [19739739](https://api.semanticscholar.org/CorpusID:19739739).
+  60. **^** [Dimebon Disappoints in Phase 3 Trial](http://www.alzforum.org/new/detail.asp?id=2387)
+  61. **^** Sweetlove M: Phase III CONCERT Trial of Latrepirdine. Negative results. Pharm Med 2012;26(2):113-115
+  62. **^** Galoyan AA, Sarkissian JS, Chavushyan VA, Meliksetyan IB, Avagyan ZE, Poghosyan MV, et al. (September 2008). "Neuroprotection by hypothalamic peptide proline-rich peptide-1 in Abeta25-35 model of Alzheimer's disease". _Alzheimer's & Dementia_. **4** (5): 332–44. [doi](/wiki/Doi_\(identifier\)):[10.1016/j.jalz.2007.10.019](https://doi.org/10.1016%2Fj.jalz.2007.10.019). [PMID](/wiki/PMID_\(identifier\)) [18790460](//pubmed.ncbi.nlm.nih.gov/18790460). [S2CID](/wiki/S2CID_\(identifier\)) [39817779](https://api.semanticscholar.org/CorpusID:39817779).
+  63. **^** Brody DL, Holtzman DM (2008). ["Active and passive immunotherapy for neurodegenerative disorders"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2561172). _Annual Review of Neuroscience_. **31**: 175–93. [doi](/wiki/Doi_\(identifier\)):[10.1146/annurev.neuro.31.060407.125529](https://doi.org/10.1146%2Fannurev.neuro.31.060407.125529). [PMC](/wiki/PMC_\(identifier\)) [2561172](//www.ncbi.nlm.nih.gov/pmc/articles/PMC2561172). [PMID](/wiki/PMID_\(identifier\)) [18352830](//pubmed.ncbi.nlm.nih.gov/18352830).
+  64. **^** Pastorino L, Ikin AF, Lamprianou S, Vacaresse N, Revelli JP, Platt K, et al. (April 2004). "BACE (beta-secretase) modulates the processing of APLP2 in vivo". _Molecular and Cellular Neurosciences_. **25** (4): 642–9. [doi](/wiki/Doi_\(identifier\)):[10.1016/j.mcn.2003.12.013](https://doi.org/10.1016%2Fj.mcn.2003.12.013). [PMID](/wiki/PMID_\(identifier\)) [15080893](//pubmed.ncbi.nlm.nih.gov/15080893). [S2CID](/wiki/S2CID_\(identifier\)) [54334969](https://api.semanticscholar.org/CorpusID:54334969).
+  65. **^** Esch FS, Keim PS, Beattie EC, Blacher RW, Culwell AR, Oltersdorf T, et al. (June 1990). "Cleavage of amyloid beta peptide during constitutive processing of its precursor". _Science_. **248** (4959): 1122–4. [Bibcode](/wiki/Bibcode_\(identifier\)):[1990Sci...248.1122E](https://ui.adsabs.harvard.edu/abs/1990Sci...248.1122E). [doi](/wiki/Doi_\(identifier\)):[10.1126/science.2111583](https://doi.org/10.1126%2Fscience.2111583). [PMID](/wiki/PMID_\(identifier\)) [2111583](//pubmed.ncbi.nlm.nih.gov/2111583).
+  66. **^** Schenk D, Basi GS, Pangalos MN (September 2012). ["Treatment strategies targeting amyloid β-protein"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3426815). _Cold Spring Harbor Perspectives in Medicine_. **2** (9): a006387. [doi](/wiki/Doi_\(identifier\)):[10.1101/cshperspect.a006387](https://doi.org/10.1101%2Fcshperspect.a006387). [PMC](/wiki/PMC_\(identifier\)) [3426815](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3426815). [PMID](/wiki/PMID_\(identifier\)) [22951439](//pubmed.ncbi.nlm.nih.gov/22951439).
+
+Classification
+
+[D](https://www.wikidata.org/wiki/Q1755122)
+
+  * **[ICD](/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems)-[10](/wiki/ICD-10)**: [G30](https://icd.who.int/browse10/2019/en#/G30)-[G32](https://icd.who.int/browse10/2019/en#/G32)
+  * **[MeSH](/wiki/Medical_Subject_Headings)**: [D019636](https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D019636)
+
+  * [v](/wiki/Template:Central_nervous_system_disease)
+  * [t](/wiki/Template_talk:Central_nervous_system_disease)
+  * [e](https://en.wikipedia.org/w/index.php?title=Template:Central_nervous_system_disease&action=edit)
+
+Diseases of the [nervous system](/wiki/Nervous_system), primarily
+[CNS](/wiki/Central_nervous_system_disease)
+
+[Inflammation](/wiki/Inflammation)
+
+[Brain](/wiki/Human_brain)
+
+  * [Encephalitis](/wiki/Encephalitis)
+    * [Viral encephalitis](/wiki/Viral_encephalitis)
+    * [Herpesviral encephalitis](/wiki/Herpesviral_encephalitis)
+    * [Limbic encephalitis](/wiki/Limbic_encephalitis)
+    * [Encephalitis lethargica](/wiki/Encephalitis_lethargica)
+  * [Cavernous sinus thrombosis](/wiki/Cavernous_sinus_thrombosis)
+  * [Brain abscess](/wiki/Brain_abscess)
+    * [Amoebic](/wiki/Amoebic_brain_abscess)
+
+Brain and [spinal cord](/wiki/Spinal_cord)
+
+  * [Encephalomyelitis](/wiki/Encephalomyelitis)
+    * [Acute disseminated](/wiki/Acute_disseminated_encephalomyelitis)
+  * [Meningitis](/wiki/Meningitis)
+  * [Meningoencephalitis](/wiki/Meningoencephalitis)
+
+[Brain](/wiki/Human_brain)/  
+[encephalopathy](/wiki/Encephalopathy)
+
+Degenerative
+
+[Extrapyramidal](/wiki/Extrapyramidal_system) and  
+[movement disorders](/wiki/Movement_disorders)
+
+  * [Basal ganglia disease](/wiki/Basal_ganglia_disease)
+    * [Parkinsonism](/wiki/Parkinsonism)
+      * [PD](/wiki/Parkinson%27s_disease)
+      * [Postencephalitic](/wiki/Postencephalitic_parkinsonism)
+      * [NMS](/wiki/Neuroleptic_malignant_syndrome)
+    * [PKAN](/wiki/Pantothenate_kinase-associated_neurodegeneration)
+    * [Tauopathy](/wiki/Tauopathy)
+      * [PSP](/wiki/Progressive_supranuclear_palsy)
+    * [Striatonigral degeneration](/wiki/Multiple_system_atrophy)
+    * [Hemiballismus](/wiki/Hemiballismus)
+    * [HD](/wiki/Huntington%27s_disease)
+    * [OA](/wiki/Olivopontocerebellar_atrophy)
+  * [Dyskinesia](/wiki/Dyskinesia)
+    * [Dystonia](/wiki/Dystonia)
+      * [Status dystonicus](/wiki/Status_dystonicus)
+      * [Spasmodic torticollis](/wiki/Spasmodic_torticollis)
+      * [Meige's](/wiki/Meige%27s_syndrome)
+      * [Blepharospasm](/wiki/Blepharospasm)
+    * [Athetosis](/wiki/Athetosis)
+    * [Chorea](/wiki/Chorea)
+      * [Choreoathetosis](/wiki/Choreoathetosis)
+    * [Myoclonus](/wiki/Myoclonus)
+      * [Myoclonic epilepsy](/wiki/Myoclonic_epilepsy)
+    * [Akathisia](/wiki/Akathisia)
+  * [Tremor](/wiki/Tremor)
+    * [Essential tremor](/wiki/Essential_tremor)
+    * [Intention tremor](/wiki/Intention_tremor)
+  * [Restless legs](/wiki/Restless_legs_syndrome)
+  * [Stiff-person](/wiki/Stiff-person_syndrome)
+
+[Dementia](/wiki/Dementia)
+
+  * [Tauopathy](/wiki/Tauopathy)
+    * [Alzheimer's](/wiki/Alzheimer%27s_disease)
+      * [Early-onset](/wiki/Early-onset_Alzheimer%27s_disease)
+    * [Primary progressive aphasia](/wiki/Primary_progressive_aphasia)
+  * [Frontotemporal dementia](/wiki/Frontotemporal_dementia)/[Frontotemporal lobar degeneration](/wiki/Frontotemporal_lobar_degeneration)
+    * [Pick's](/wiki/Pick%27s_disease)
+    * [Dementia with Lewy bodies](/wiki/Dementia_with_Lewy_bodies)
+  * [Posterior cortical atrophy](/wiki/Posterior_cortical_atrophy)
+  * [Vascular dementia](/wiki/Vascular_dementia)
+
+[Mitochondrial disease](/wiki/Mitochondrial_disease)
+
+  * [Leigh syndrome](/wiki/Leigh_syndrome)
+
+[Demyelinating](/wiki/Demyelinating_disease)
+
+  * [Autoimmune](/wiki/CNS_demyelinating_autoimmune_diseases)
+  * [Inflammatory](/wiki/Inflammatory_demyelinating_diseases_of_the_central_nervous_system)
+  * [Multiple sclerosis](/wiki/Multiple_sclerosis)
+  * For more detailed coverage, see [Template:Demyelinating diseases of CNS](/wiki/Template:Demyelinating_diseases_of_CNS)
+
+Episodic/  
+[paroxysmal](/wiki/Paroxysmal_attack)
+
+[Seizures](/wiki/Epileptic_seizure) and [epilepsy](/wiki/Epilepsy)
+
+  * [Focal](/wiki/Focal_seizure)
+  * [Generalised](/wiki/Generalized_epilepsy)
+  * [Status epilepticus](/wiki/Status_epilepticus)
+  * For more detailed coverage, see [Template:Epilepsy](/wiki/Template:Epilepsy)
+
+[Headache](/wiki/Headache)
+
+  * [Migraine](/wiki/Migraine)
+  * [Cluster](/wiki/Cluster_headache)
+  * [Tension](/wiki/Tension_headache)
+  * For more detailed coverage, see [Template:Headache](/wiki/Template:Headache)
+
+[Cerebrovascular](/wiki/Cerebrovascular_disease)
+
+  * [TIA](/wiki/Transient_ischemic_attack)
+  * [Stroke](/wiki/Stroke)
+  * For more detailed coverage, see [Template:Cerebrovascular diseases](/wiki/Template:Cerebrovascular_diseases)
+
+Other
+
+  * [Sleep disorders](/wiki/Sleep_disorders)
+    * For more detailed coverage, see [Template:Sleep](/wiki/Template:Sleep)
+
+[CSF](/wiki/Cerebrospinal_fluid)
+
+  * [Intracranial hypertension](/wiki/Intracranial_pressure)
+    * [Hydrocephalus](/wiki/Hydrocephalus)
+    * [Normal pressure hydrocephalus](/wiki/Normal_pressure_hydrocephalus)
+    * [Choroid plexus papilloma](/wiki/Choroid_plexus_papilloma)
+    * [Idiopathic intracranial hypertension](/wiki/Idiopathic_intracranial_hypertension)
+  * [Cerebral edema](/wiki/Cerebral_edema)
+  * [Intracranial hypotension](/wiki/Spontaneous_cerebrospinal_fluid_leak)
+
+Other
+
+  * [Brain herniation](/wiki/Brain_herniation)
+  * [Reye syndrome](/wiki/Reye_syndrome)
+  * [Hepatic encephalopathy](/wiki/Hepatic_encephalopathy)
+  * [Toxic encephalopathy](/wiki/Toxic_encephalopathy)
+  * [Hashimoto's encephalopathy](/wiki/Hashimoto%27s_encephalopathy)
+
+Both/either
+
+Degenerative
+
+[SA](/wiki/Spinocerebellar_ataxia)
+
+  * [Friedreich's ataxia](/wiki/Friedreich%27s_ataxia)
+  * [Ataxia–telangiectasia](/wiki/Ataxia%E2%80%93telangiectasia)
+
+[MND](/wiki/Motor_neuron_disease)
+
+  * _[UMN](/wiki/Upper_motor_neuron) only:_
+    * [Primary lateral sclerosis](/wiki/Primary_lateral_sclerosis)
+    * [Pseudobulbar palsy](/wiki/Pseudobulbar_palsy)
+    * [Hereditary spastic paraplegia](/wiki/Hereditary_spastic_paraplegia)
+  * _[LMN](/wiki/Lower_motor_neuron) only:_
+    * [Distal hereditary motor neuronopathies](/wiki/Distal_hereditary_motor_neuronopathies)
+    * [Spinal muscular atrophies](/wiki/Spinal_muscular_atrophies)
+      * [SMA](/wiki/Spinal_muscular_atrophy)
+      * [SMAX1](/wiki/Spinal_and_bulbar_muscular_atrophy)
+      * [SMAX2](/wiki/X-linked_spinal_muscular_atrophy_type_2)
+      * [DSMA1](/wiki/Distal_spinal_muscular_atrophy_type_1)
+      * [Congenital DSMA](/wiki/Congenital_distal_spinal_muscular_atrophy)
+      * Spinal muscular atrophy with lower extremity predominance (SMALED) 
+        * [SMALED1](/wiki/Spinal_muscular_atrophy_with_lower_extremity_predominance_1)
+        * [SMALED2A](/wiki/Spinal_muscular_atrophy_with_lower_extremity_predominance_2A)
+        * [SMALED2B](/wiki/Spinal_muscular_atrophy_with_lower_extremity_predominance_2B)
+      * [SMA-PCH](/wiki/Pontocerebellar_hypoplasia)
+      * [SMA-PME](/wiki/Spinal_muscular_atrophy_with_progressive_myoclonic_epilepsy)
+    * [Progressive muscular atrophy](/wiki/Progressive_muscular_atrophy)
+    * [Progressive bulbar palsy](/wiki/Progressive_bulbar_palsy)
+      * [Fazio–Londe](/wiki/Fazio%E2%80%93Londe_disease)
+      * [Infantile progressive bulbar palsy](/wiki/Infantile_progressive_bulbar_palsy)
+  * _both:_
+    * [Amyotrophic lateral sclerosis](/wiki/Amyotrophic_lateral_sclerosis)
+
+  * [v](/wiki/Template:Neuroscience)
+  * [t](/wiki/Template_talk:Neuroscience)
+  * [e](https://en.wikipedia.org/w/index.php?title=Template:Neuroscience&action=edit)
+
+[Neuroscience](/wiki/Neuroscience)
+
+  * [Outline of neuroscience](/wiki/Outline_of_neuroscience)
+  * [History of neuroscience](/wiki/History_of_neuroscience)
+
+[Basic  
+science](/wiki/Basic_research)
+
+  * [Behavioral epigenetics](/wiki/Behavioral_epigenetics)
+  * [Behavioral genetics](/wiki/Behavioural_genetics)
+  * [Brain mapping](/wiki/Brain_mapping)
+  * [Brain-reading](/wiki/Brain-reading)
+  * [Cellular neuroscience](/wiki/Cellular_neuroscience)
+  * [Computational neuroscience](/wiki/Computational_neuroscience)
+  * [Connectomics](/wiki/Connectomics)
+  * [Imaging genetics](/wiki/Imaging_genetics)
+  * [Integrative neuroscience](/wiki/Integrative_neuroscience)
+  * [Molecular neuroscience](/wiki/Molecular_neuroscience)
+  * [Neural decoding](/wiki/Neural_decoding)
+  * [Neural engineering](/wiki/Neural_engineering)
+  * [Neuroanatomy](/wiki/Neuroanatomy)
+  * [Neurochemistry](/wiki/Neurochemistry)
+  * [Neuroendocrinology](/wiki/Neuroendocrinology)
+  * [Neurogenetics](/wiki/Neurogenetics)
+  * [Neuroinformatics](/wiki/Neuroinformatics)
+  * [Neurometrics](/wiki/Neurometrics)
+  * [Neuromorphology](/wiki/Neuromorphology)
+  * [Neurophysics](/wiki/Neurophysics)
+  * [Neurophysiology](/wiki/Neurophysiology)
+  * [Systems neuroscience](/wiki/Systems_neuroscience)
+
+![Gray739.png](//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gray739.png
+/130px-Gray739.png)
+
+[Clinical  
+neuroscience](/wiki/Clinical_neuroscience)
+
+  * [Behavioral neurology](/wiki/Behavioral_neurology)
+  * [Clinical neurophysiology](/wiki/Clinical_neurophysiology)
+  * [Neurocardiology](/wiki/Neurocardiology)
+  * [Neuroepidemiology](/wiki/Neuroepidemiology)
+  * [Neurogastroenterology](/wiki/Neurogastroenterology)
+  * [Neuroimmunology](/wiki/Neuroimmunology)
+  * [Neurointensive care](/wiki/Neurointensive_care)
+  * [Neurology](/wiki/Neurology)
+  * [Neurooncology](/wiki/Neurooncology)
+  * [Neuro-ophthalmology](/wiki/Neuro-ophthalmology)
+  * [Neuropathology](/wiki/Neuropathology)
+  * [Neuropharmacology](/wiki/Neuropharmacology)
+  * [Neuroprosthetics](/wiki/Neuroprosthetics)
+  * [Neuropsychiatry](/wiki/Neuropsychiatry)
+  * [Neuroradiology](/wiki/Neuroradiology)
+  * [Neurorehabilitation](/wiki/Neurorehabilitation)
+  * [Neurosurgery](/wiki/Neurosurgery)
+  * [Neurotology](/wiki/Neurotology)
+  * [Neurovirology](/wiki/Neurovirology)
+  * [Nutritional neuroscience](/wiki/Nutritional_neuroscience)
+  * [Psychiatry](/wiki/Psychiatry)
+
+[Cognitive  
+neuroscience](/wiki/Cognitive_neuroscience)
+
+  * [Affective neuroscience](/wiki/Affective_neuroscience)
+  * [Behavioral neuroscience](/wiki/Behavioral_neuroscience)
+  * [Chronobiology](/wiki/Chronobiology)
+  * [Molecular cellular cognition](/wiki/Molecular_cellular_cognition)
+  * [Motor control](/wiki/Motor_control)
+  * [Neurolinguistics](/wiki/Neurolinguistics)
+  * [Neuropsychology](/wiki/Neuropsychology)
+  * [Sensory neuroscience](/wiki/Sensory_neuroscience)
+  * [Social cognitive neuroscience](/wiki/Social_cognitive_neuroscience)
+
+Interdisciplinary  
+fields
+
+  * [Consumer neuroscience](/wiki/Consumer_neuroscience)
+  * [Cultural neuroscience](/wiki/Cultural_neuroscience)
+  * [Educational neuroscience](/wiki/Educational_neuroscience)
+  * [Evolutionary neuroscience](/wiki/Evolutionary_neuroscience)
+  * [Neuroanthropology](/wiki/Neuroanthropology)
+  * [Neurobioengineering](/wiki/Neurobioengineering)
+  * [Neurobiotics](/wiki/Neurobiotics)
+  * [Neurocriminology](/wiki/Neurocriminology)
+  * [Neuroeconomics](/wiki/Neuroeconomics)
+  * [Neuroepistemology](/wiki/Neuroepistemology)
+  * [Neuroesthetics](/wiki/Neuroesthetics)
+  * [Neuroethics](/wiki/Neuroethics)
+  * [Neuroethology](/wiki/Neuroethology)
+  * [Neurohistory](/wiki/Neurohistory)
+  * [Neurolaw](/wiki/Neurolaw)
+  * [Neuromarketing](/wiki/Neuromarketing)
+  * [Neuromorphics](/wiki/Neuromorphics)
+  * [Neurophenomenology](/wiki/Neurophenomenology)
+  * [Neurophilosophy](/wiki/Neurophilosophy)
+  * [Neuropolitics](/wiki/Neuropolitics)
+  * [Neurorobotics](/wiki/Neurorobotics)
+  * [Neurotheology](/wiki/Neurotheology)
+  * [Paleoneurobiology](/wiki/Paleoneurobiology)
+  * [Social neuroscience](/wiki/Social_neuroscience)
+
+Concepts
+
+  * [Brain–computer interface](/wiki/Brain%E2%80%93computer_interface)
+  * [Neural development](/wiki/Neural_development)
+  * [Neural network (artificial)](/wiki/Artificial_neural_network)
+  * [Neural network (biological)](/wiki/Biological_neural_network)
+  * [Detection theory](/wiki/Detection_theory)
+  * [Intraoperative neurophysiological monitoring](/wiki/Intraoperative_neurophysiological_monitoring)
+  * [Neurochip](/wiki/Neurochip)
+  * Neurodegeneration
+  * [Neurodevelopmental disorder](/wiki/Neurodevelopmental_disorder)
+  * [Neurodiversity](/wiki/Neurodiversity)
+  * [Neurogenesis](/wiki/Neurogenesis)
+  * [Neuroimaging](/wiki/Neuroimaging)
+  * [Neuroimmune system](/wiki/Neuroimmune_system)
+  * [Neuromanagement](/wiki/Neuromanagement)
+  * [Neuromodulation](/wiki/Neuromodulation)
+  * [Neuroplasticity](/wiki/Neuroplasticity)
+  * [Neurotechnology](/wiki/Neurotechnology)
+  * [Neurotoxin](/wiki/Neurotoxin)
+
+  * ![Category](//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png) **[Category](/wiki/Category:Neuroscience)**
+
+[Authority control](/wiki/Help:Authority_control) ![Edit this at
+Wikidata](//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-
+ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png)
+
+General
+
+  * [Integrated Authority File (Germany)](https://d-nb.info/gnd/4300182-8)
+
+National libraries
+
+  * [Spain](http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX548538)
+  * [France](https://catalogue.bnf.fr/ark:/12148/cb11965374p) [(data)](https://data.bnf.fr/ark:/12148/cb11965374p)
+  * [United States](https://id.loc.gov/authorities/subjects/sh85090923)
+
+Other
+
+  * [Microsoft Academic](https://academic.microsoft.com/v2/detail/2776925932)
+
+![](//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Retrieved from "[https://en.wikipedia.org/w/index.php?title=Neurodegeneration&
+oldid=1043688812](https://en.wikipedia.org/w/index.php?title=Neurodegeneration
+&oldid=1043688812)"
+
+[Categories](/wiki/Help:Category):
+
+  * [Neurological disorders](/wiki/Category:Neurological_disorders)
+  * [Neuroscience](/wiki/Category:Neuroscience)
+  * [Senescence](/wiki/Category:Senescence)
+
+Hidden categories:
+
+  * [CS1: long volume value](/wiki/Category:CS1:_long_volume_value)
+  * [Articles with short description](/wiki/Category:Articles_with_short_description)
+  * [Short description matches Wikidata](/wiki/Category:Short_description_matches_Wikidata)
+  * [Short description is different from Wikidata](/wiki/Category:Short_description_is_different_from_Wikidata)
+  * [Articles with GND identifiers](/wiki/Category:Articles_with_GND_identifiers)
+  * [Articles with BNE identifiers](/wiki/Category:Articles_with_BNE_identifiers)
+  * [Articles with BNF identifiers](/wiki/Category:Articles_with_BNF_identifiers)
+  * [Articles with LCCN identifiers](/wiki/Category:Articles_with_LCCN_identifiers)
+  * [Articles with MA identifiers](/wiki/Category:Articles_with_MA_identifiers)
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * [Talk](/wiki/Special:MyTalk)
+  * [Contributions](/wiki/Special:MyContributions)
+  * [Create account](/w/index.php?title=Special:CreateAccount&returnto=Neurodegeneration)
+  * [Log in](/w/index.php?title=Special:UserLogin&returnto=Neurodegeneration)
+
+### Namespaces
+
+  * [Article](/wiki/Neurodegeneration)
+  * [Talk](/wiki/Talk:Neurodegeneration)
+
+### Variants
+
+### Views
+
+  * [Read](/wiki/Neurodegeneration)
+  * [Edit](/w/index.php?title=Neurodegeneration&action=edit)
+  * [View history](/w/index.php?title=Neurodegeneration&action=history)
+
+### More
+
+###  Search
+
+### Navigation
+
+  * [Main page](/wiki/Main_Page)
+  * [Contents](/wiki/Wikipedia:Contents)
+  * [Current events](/wiki/Portal:Current_events)
+  * [Random article](/wiki/Special:Random)
+  * [About Wikipedia](/wiki/Wikipedia:About)
+  * [Contact us](//en.wikipedia.org/wiki/Wikipedia:Contact_us)
+  * [Donate](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en)
+
+### Contribute
+
+  * [Help](/wiki/Help:Contents)
+  * [Learn to edit](/wiki/Help:Introduction)
+  * [Community portal](/wiki/Wikipedia:Community_portal)
+  * [Recent changes](/wiki/Special:RecentChanges)
+  * [Upload file](/wiki/Wikipedia:File_Upload_Wizard)
+
+### Tools
+
+  * [What links here](/wiki/Special:WhatLinksHere/Neurodegeneration)
+  * [Related changes](/wiki/Special:RecentChangesLinked/Neurodegeneration)
+  * [Upload file](/wiki/Wikipedia:File_Upload_Wizard)
+  * [Special pages](/wiki/Special:SpecialPages)
+  * [Permanent link](/w/index.php?title=Neurodegeneration&oldid=1043688812)
+  * [Page information](/w/index.php?title=Neurodegeneration&action=info)
+  * [Cite this page](/w/index.php?title=Special:CiteThisPage&page=Neurodegeneration&id=1043688812&wpFormIdentifier=titleform)
+  * [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q1755122)
+
+### Print/export
+
+  * [Download as PDF](/w/index.php?title=Special:DownloadAsPdf&page=Neurodegeneration&action=show-download-screen)
+  * [Printable version](/w/index.php?title=Neurodegeneration&printable=yes)
+
+### In other projects
+
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Neurodegenerative_diseases_and_disorders)
+
+### Languages
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%84%D9%84_%D8%B9%D8%B5%D8%A8%D9%8A)
+  * [Беларуская](https://be.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%80%D0%B0%D0%B4%D1%8D%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D1%8B%D1%9E%D0%BD%D1%8B%D1%8F_%D0%B7%D0%B0%D1%85%D0%B2%D0%BE%D1%80%D0%B2%D0%B0%D0%BD%D0%BD%D1%96)
+  * [Català](https://ca.wikipedia.org/wiki/Neurodegeneraci%C3%B3)
+  * [Deutsch](https://de.wikipedia.org/wiki/Neurodegenerative_Erkrankung)
+  * [Español](https://es.wikipedia.org/wiki/Enfermedad_neurodegenerativa)
+  * [فارسی](https://fa.wikipedia.org/wiki/%D8%B2%D9%88%D8%A7%D9%84_%D8%B9%D8%B5%D8%A8%DB%8C)
+  * [Français](https://fr.wikipedia.org/wiki/Maladie_neurod%C3%A9g%C3%A9n%C3%A9rative)
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE_%E0%A4%85%E0%A4%AA%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8)
+  * [Italiano](https://it.wikipedia.org/wiki/Malattie_neurodegenerative)
+  * [Latina](https://la.wikipedia.org/wiki/Neurodegeneratio)
+  * [Македонски](https://mk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D1%80%D0%BE%D0%B4%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%98%D0%B0)
+  * [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B5%8D%E0%B4%AF%E0%B5%81%E0%B4%B1%E0%B5%8B_%E0%B4%A1%E0%B4%BF%E0%B4%9C%E0%B5%86%E0%B4%A8%E0%B5%86%E0%B4%B0%E0%B5%86%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%80%E0%B4%B5%E0%B5%8D_%E0%B4%B0%E0%B5%8B%E0%B4%97%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE)
+  * [Bahasa Melayu](https://ms.wikipedia.org/wiki/Neurodegenerasi)
+  * [Nederlands](https://nl.wikipedia.org/wiki/Neurodegeneratie)
+  * [日本語](https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E5%A4%89%E6%80%A7%E7%96%BE%E6%82%A3)
+  * [Polski](https://pl.wikipedia.org/wiki/Choroby_neurodegeneracyjne)
+  * [Português](https://pt.wikipedia.org/wiki/Neurodegenera%C3%A7%C3%A3o)
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%B4%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+  * [Simple English](https://simple.wikipedia.org/wiki/Neurodegeneration)
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%9D%D0%B5%D1%83%D1%80%D0%BE%D0%B4%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%98%D0%B0)
+  * [Svenska](https://sv.wikipedia.org/wiki/Neurodegenerativa_sjukdomar)
+  * [ไทย](https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%97)
+  * [Türkçe](https://tr.wikipedia.org/wiki/N%C3%B6rodejenerasyon)
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Tho%C3%A1i_h%C3%B3a_th%E1%BA%A7n_kinh)
+  * [粵語](https://zh-yue.wikipedia.org/wiki/%E7%A5%9E%E7%B6%93%E9%80%80%E5%8C%96%E7%97%85)
+  * [中文](https://zh.wikipedia.org/wiki/%E7%A5%9E%E7%B6%93%E9%80%80%E5%8C%96%E9%9A%9C%E7%A4%99)
+
+[Edit links](https://www.wikidata.org/wiki/Special:EntityPage/Q1755122
+#sitelinks-wikipedia)
+
+  * This page was last edited on 11 September 2021, at 12:25 (UTC).
+  * Text is available under the [Creative Commons Attribution-ShareAlike License](//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License); additional terms may apply. By using this site, you agree to the [Terms of Use](//foundation.wikimedia.org/wiki/Terms_of_Use) and [Privacy Policy](//foundation.wikimedia.org/wiki/Privacy_policy). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](//www.wikimediafoundation.org/), a non-profit organization.
+  * [Privacy policy](https://foundation.wikimedia.org/wiki/Privacy_policy)
+  * [About Wikipedia](/wiki/Wikipedia:About)
+  * [Disclaimers](/wiki/Wikipedia:General_disclaimer)
+  * [Contact Wikipedia](//en.wikipedia.org/wiki/Wikipedia:Contact_us)
+  * [Mobile view](//en.m.wikipedia.org/w/index.php?title=Neurodegeneration&mobileaction=toggle_view_mobile)
+  * [Developers](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
+  * [Cookie statement](https://foundation.wikimedia.org/wiki/Cookie_statement)
+  * ![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)
+  * ![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)
+  *[[v]: View this template
+  *[[e]: Edit this template
+  *[[t]: Discuss this template
+
+Sections
+
+SEARCH
+
+Skip to contentSkip to site index
+
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+
+Showing 10,196 results for: Showing 10 out of 10,196 results for:alzheimer's
+
+SearchUse up and down arrows to review search suggestions and enter to select
+
+Sort by RelevanceSort by NewestSort by Oldest
+
+Refine results via Date Range
+
+Refine results via Section
+
+Refine results via Type
+
+  1. Health
+
+#### [House Committees Demand F.D.A. Records on Alzheimer’s Drug Approval
+
+The agency approved Biogen’s Aduhelm “despite concerns raised by experts,”
+committee leaders said in a letter.
+
+By Pam Belluck
+
+PRINT EDITIONSeptember 3, 2021, Page A11](/2021/09/02/health/aduhelm-
+fda.html?searchResultPosition=1)
+
+![Biogen’s headquarters in Cambridge, Mass. The F.D.A.’s approval of the
+company’s Alzheimer’s drug, Aduhelm, was controversial among experts and
+agency staff. ](https://static01.nyt.com/images/2021/09/02/science/02fda-1/mer
+lin_193896369_8203653d-1643-414f-b1ac-
+40fd2790e576-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+
+  2. Magazine
+
+#### [My Stepdad Has Alzheimer’s. Can My Mom Date Someone Else?
+
+The magazine’s Ethicist columnist on marriage vows and stolen library books.
+
+By Kwame Anthony Appiah
+
+PRINT EDITIONMy Stepdad Has Alzheimer’s. How Should I Feel About My Mom’s
+Dating Someone Else?|September 5, 2021, Page MM14](/2021/08/31/magazine
+/alzheimers-ethics.html?searchResultPosition=2)
+
+![](https://static01.nyt.com/images/2021/09/05/magazine/05mag-ethicist/05mag-
+ethicist-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+
+  3. Live
+
+#### [Weekly Health Quiz: Covid, Aloe and Heartburn
+
+Test your knowledge of this week’s health news.
+
+By Toby Bilanow
+
+](/interactive/2021/08/26/well/live/26healthquiz-08232021.html?searchResultPos
+ition=3)
+
+![](https://static01.nyt.com/images/2021/04/11/well/00healthquiz-art/11Well-
+HealthQuiz-icon-
+threeByTwoSmallAt2X-v3.jpg?quality=75&auto=webp&disable=upscale)
+
+  4. Move
+
+#### [How Exercise May Help Keep Our Memory Sharp
+
+Irisin, a hormone produced by muscles during exercise, can enter the brain and
+improve cognition, a mouse study suggests.
+
+By Gretchen Reynolds
+
+PRINT EDITIONHow Exercise May Hone Memory|August 31, 2021, Page
+D6](/2021/08/25/well/move/exercise-brain-memory-
+benefits.html?searchResultPosition=4)
+
+![](https://static01.nyt.com/images/2021/08/31/well/physed-memory
+/merlin_189286026_648a5d8e-ef93-4009-bc41-9e70d1260128-threeByTwoSmallAt2X.jpg
+?quality=75&auto=webp&disable=upscale)
+
+  5. ### Advertisement
+
+Continue reading the main story
+
+  6. Health
+
+#### [Seeking Early Signals of Dementia in Driving and Credit Scores
+
+The pathologies underlying brain decline can begin years before symptoms
+emerge. Can everyday behavior provide warning?
+
+By Paula Span
+
+PRINT EDITIONSeeking Dementia Signals in Everyday Behavior|August 24, 2021,
+Page D7](/2021/08/23/health/dementia-behavior-
+alzheimers.html?searchResultPosition=5)
+
+![](https://static01.nyt.com/images/2021/08/24/science/24dementia-span
+/24dementia-span-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+
+  7. Business
+
+#### [That $56,000 Drug? Blame Medicare.
+
+For an increasingly important set of drugs, Medicare has been driving up
+prices. It knows how to do better.
+
+By Amy Finkelstein
+
+PRINT EDITIONThat $56,000 Treatment? Blame Medicare.|August 22, 2021, Page
+BU4](/2021/08/20/business/drug-cost-medicare-
+alzheimers.html?searchResultPosition=6)
+
+![](https://static01.nyt.com/images/2021/08/22/business/20view-drugs-illo
+/20view-drugs-illo-
+threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+
+  8. Business
+
+#### [A controversial Alzheimer’s drug has already yielded $2 million in
+sales.
+
+The drug from Biogen, called Aduhelm, is expected to generate billions in
+sales. It could also strain Medicare’s budget within a few years.
+
+By Rebecca Robbins
+
+](/2021/07/22/business/aduhelm-sales-biogen.html?searchResultPosition=7)
+
+![The approval of Aduhelm last month generated intense scrutiny, in large part
+because there is scant evidence that the Alzheimer’s drug can help
+patients.](https://static01.nyt.com/images/2021/07/22/business/22econ-brf-
+biogen/merlin_191089866_ea014b2b-c565-4c1c-925f-
+23f130770174-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+
+  9. Health
+
+#### [How an Unproven Alzheimer’s Drug Got Approved
+
+Though some of its own senior officials said there was little evidence of
+benefit for patients, the F.D.A. nonetheless greenlighted Biogen’s Aduhelm, or
+aducanumab.
+
+By Pam Belluck, Sheila Kaplan and Rebecca Robbins
+
+PRINT EDITIONAlzheimer Drug Approved Despite Doubts It Worked|July 21, 2021,
+Page A1](/2021/07/19/health/alzheimers-drug-aduhelm-
+fda.html?searchResultPosition=8)
+
+![The F.D.A. conducted an internal inquiry this year after allegations were
+made that the agency was collaborating too closely with Biogen, maker of the
+Alzheimer&rsquo;s drug Aduhelm.](https://static01.nyt.com/images/2021/07/17/sc
+ience/17ADUHELM1/merlin_176337804_910b1db7-50d9-47fc-8fca-87d6e877572b-
+threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+
+  10. Health
+
+#### [Cleveland Clinic and Mount Sinai Won’t Administer Aduhelm to Patients
+
+The rejection of the new Alzheimer’s drug by the two major medical centers is
+one of the starkest signs of concern over its approval by the F.D.A.
+
+By Pam Belluck
+
+PRINT EDITIONMajor Clinic Rejects Drug Used to Treat Alzheimer’s|July 15,
+2021, Page A17](/2021/07/14/health/cleveland-clinic-
+aduhelm.html?searchResultPosition=9)
+
+![The Cleveland Clinic, one of the largest and most respected medical centers
+in the U.S., has decided not to administer the new Alzheimer’s drug
+Aduhelm.](https://static01.nyt.com/images/2021/07/14/multimedia/14-aduhelm-
+promo-2sub/14-aduhelm-promo-2sub-
+threeByTwoSmallAt2X-v2.jpg?quality=75&auto=webp&disable=upscale)
+
+  11. Magazine
+
+#### [We Need to Know How Menopause Changes Women’s Brains
+
+This might turn out to be a crucial window to try to prevent Alzheimer’s and
+other chronic diseases that often accompany older age.
+
+By Kim Tingley
+
+PRINT EDITIONJuly 25, 2021, Page MM14](/2021/07/21/magazine/menopause-
+brains.html?searchResultPosition=10)
+
+![](https://static01.nyt.com/images/2021/07/25/magazine/25ShowStudies_Image1/2
+5ShowStudies_Image1-threeByTwoSmallAt2X-v3.jpg?quality=75&auto=webp&disable=up
+scale)
+
+[Have search feedback? Let us know what you
+think.](http://nyt.qualtrics.com/jfe/form/SV_ehZpyzWtbwO9HVj?v=a)
+
+Show More
+
+## Site Index
+
+## Site Information Navigation
+
+  * [© 2021 The New York Times Company](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
+  * [NYTCo](https://www.nytco.com/)
+  * [Contact Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
+  * [Accessibility](https://help.nytimes.com/hc/en-us/articles/115015727108-Accessibility)
+  * [Work with us](https://www.nytco.com/careers/)
+  * [Advertise](https://nytmediakit.com/)
+  * [T Brand Studio](http://www.tbrandstudio.com/)
+  * [Your Ad Choices](https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers)
+  * [Privacy Policy](https://www.nytimes.com/privacy/privacy-policy)
+  * [Terms of Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
+  * [Terms of Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
+  * [Site Map](/sitemap/)
+  * [Canada](https://www.nytimes.com/ca/?action=click&region=Footer&pgtype=Homepage)
+  * [International](https://www.nytimes.com/international/?action=click&region=Footer&pgtype=Homepage)
+  * [Help](https://help.nytimes.com/hc/en-us)
+  * [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

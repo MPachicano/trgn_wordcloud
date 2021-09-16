@@ -4,14 +4,18 @@
 
 filename=my_webpages.txt
 count=1 
+#while IFS= read -r line; do
+ #   echo "Text read from file: $line"
+#done < "$filename"
+
 while IFS= read -r line;
 do
 tmp=file
 tmp2=.html
 tmp3=$tmp$count$tmp2
 
-wget -O "$tmp3" "$1"
-count=count+1
+wget -O "$tmp3" $line
+count=2
 done <"$filename"
 
 # Convert both html wepbages to one single text file
@@ -23,4 +27,3 @@ wordcloud_cli --text my_current.txt --imagefile myimage.png
 # Move into the public_html directory
 mv myimage.png /home/pachican/public_html/
 
-# Check and update webpages/wordcloud daily usign Cron Scheduler
